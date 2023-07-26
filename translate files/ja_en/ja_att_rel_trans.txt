@@ -1,0 +1,2076 @@
+観測所	observatory
+役名	role name
+組織形態	Organizational morphology
+都城	capital city
+経度ew	longitudeew
+ワイルドカード	Wildcard
+6放送局	6 broadcasting stations
+スカパー 開局月	SKY PerfecTV opening month
+弁務官	Commissioner
+編成地	knitting ground
+打席	turn at bat
+設計	design
+設立	Established
+ストレージ	storage
+スリーサイズ	three size
+日本一	No.1 in Japan
+4当代	4 contemporary
+1枚目画像の説明	Description of the first image
+担当楽器	Instrument in charge
+特別開局年	Special opening year
+再廃止	Abolished again
+地図画像 説明	Map image Description
+od年	od year
+カテゴリ	category
+見出し	headline
+議席注	seat note
+その他の賞	Other awards
+リーグ チャンピオンシップ回数	Number of league championships
+地図国コード	map country code
+2落選者名	2 names of losers
+司法管轄区	Jurisdiction
+姉妹誌	Sister magazine
+ナンバープレート	License plate
+公式ウェブサイト	Official website
+最終学歴	Final Education
+落選者名	Name of loser
+市旗の説明	Description of the city flag
+トレーナー	trainer
+亡国時期	time of exile
+代表国	Represented country
+メンバー	member
+制作会社	production company
+合計年	total years
+旧称	former name
+居住地	residence
+純利益	Net income
+全幅	Width
+副大統領職	Vice President
+大言壮語	rant
+原語名	original name
+次席閣僚氏名	Name of Deputy Minister
+位置画像	position image
+比例区	proportional zone
+ビルディング名称	Building name
+親会社	parent company
+廃止年月日	Abolition date
+電報略号	Telegram abbreviation
+出生名	birth name
+当代	contemporary
+メカニックデザイン	mechanic design
+研究科	graduate school
+標高m	altitude m
+6落選者名	6 names of losers
+純損失	net loss
+2選択式装備	2 selectable equipment
+ネックジョイント	neck joint
+改修	Refurbishment
+キャパ	Capacity
+家紋	family crest
+対象年齢	Target age
+4武装	4 armament
+自治体名	municipality name
+2p	2p
+お印	seal
+位置地図	location map
+旅客数	number of passengers
+党員 党友数集計年月日	Party member Count date of party friends
+注音	Zhuyin
+家名	family name
+独立教会の地位に対する総主教庁 他教会からの承認	Patriarchate for Independent Church Status Recognition by Other Churches
+eo光テレビ	eo light tv
+2次代	second generation
+受賞歴	Awards
+日韓クラブチャンピオンシップ出場	Participated in the Japan-Korea Club Championship
+新十両	New Juryo
+有効射程	effective range
+所属リーグ	Belonging league
+誌名	magazine name
+標語追記	Slogan postscript
+参照法条	Reference statute
+旧名	former name
+シンボル名	symbol name
+3pp	3pp
+上目	upper eye
+キャッチコピー	catch copy
+最優秀選手	best player
+販売元	Distributor
+aクラス回数	a class times
+駅名	station name
+死去日	date of death
+教区数	number of parishes
+学位	degree
+シナリオ	scenario
+県名	Prefecture name
+ワイルドカード回数	Wildcard count
+候補者数	number of candidates
+サイトタイトル	site title
+大統領権限継承順位	Order of succession to presidential powers
+3落選者新旧別	3 Unsuccessful candidates old and new
+画像サイズ指定	Specify image size
+主製造業者	Main manufacturer
+統計期	statistical period
+水源	water source
+殿堂	hall of fame
+その他の役職	Other positions
+墓地	cemetery
+試合数	number of games
+4在任期間	4 tenure
+次官氏名	Undersecretary name
+経度度	longitude
+全高	Height
+台語名	Dialogue name
+関連	connection
+列福日	beatification day
+姉妹車	sister car
+cap数	number of caps
+英項名	English term name
+コンテンツアイコン	content icon
+最終上級部隊	final advanced unit
+放送形式	Broadcast format
+都市人口率	urban population rate
+成立日	Established date
+表示名称	Display name
+ロゴ	logo
+発売国	Release country
+ハングル	hangul
+交流戦優勝	Exchange match winner
+画像説明	image description
+ライセンス	license
+iso 追記	add iso
+成立区分	Establishment classification
+在任期間	tenure
+アナログ開局日	Analog opening date
+8落選者得票率	8 Lost vote rate
+最大差敗戦試合開催年	Year of the biggest losing game
+雑多な内容の箇条書き	Miscellaneous bullet points
+コントローラ入力	controller input
+県都画像	Prefectural capital image
+州首相	chief minister
+国際組織	international organization
+前身	predecessor
+上院議員数	number of senators
+成立経緯	History of establishment
+所属政体	affiliation
+ジャンクション	Junction
+対象	subject
+通行方向	Direction of traffic
+通貨追記	currency note
+デビュー	debut
+最高標高	highest altitude
+神号	God name
+メディア	media
+開局	opening
+gdp順位	gdp rank
+最高行政執行者称号	Chief Executive Officer Title
+広東語	Cantonese
+2全高	2 overall height
+主要株主	Major shareholder
+適齢総数	Age appropriate total
+3落選者所属	3 unsuccessful affiliation
+法廷名	court name
+初の国際試合	first international match
+正確性	Accuracy
+本名簡体字	real name simplified
+最高司令官	HQ Commander
+配備期間	Deployment period
+決算期	Accounting period
+ページ名	page name
+交流戦優勝回数	Interleague wins
+f副パンツ	f vice pants
+人口大きさ	population size
+上院議員集計年月日	Senate Tally Date
+特別閉局予定	Special closing schedule
+アナログ開局年	Analog opening year
+母父	mother and father
+雑誌名コード	Magazine name code
+消滅経緯	Extinction history
+4a	4a
+スカパー 開局日	SKY PerfecTV opening date
+製作者	Producer
+1blankname	1 blank name
+駅数	number of stations
+3放送局	3 broadcasting stations
+主席閣僚職名	Chief Minister Title
+最大トルク	Maximum torque
+日本一回数	once in Japan
+最小曲線半径	minimum curve radius
+乗車定員	Boarding capacity
+政務調査会長	Policy Research Chairman
+陸地面積	land area
+読み取り方法	reading method
+創設	founding
+編集	edit
+人口密度	Population density
+親署代替文	parental signature alternative
+3節目調	3rd knot tone
+ファステストラップ	fastest lap
+選挙年	election year
+国号	Country name
+カンファレンス チャンピオンシップ年度	Conference Championship Year
+ローマ字	romaji
+商業施設面積	Commercial facility area
+製作	Production
+州章幅	state coat of arms
+2次番組	Second program
+経度分	minutes of longitude
+ディレクtv開局年	DirecTV opening year
+ヘッドコーチ	head coach
+none エンジン	none engine
+選手名	Player name
+アリーナ	arena
+運営時間	operating hours
+よみがな	reading
+落選者当落	loser
+チームズタイトル	teams title
+改称年月日	Date of name change
+放送対象地域	Broadcast target area
+終了年	end year
+開業	Opening of business
+マシン	machine
+女性適齢総数	Total number of suitable age for women
+カタカナ	Katakana
+収益	Earnings
+搭載機器名称	Installed device name
+本社	main office
+gdp統計年元	gdp statistics year old
+最高行政執行者所属党派	Supreme Executive Affiliated Party
+オートモード	auto mode
+当選者名	Winner name
+一次資料	primary source
+子会社	subsidiary
+面積測定時期	Area measurement timing
+政府名	government name
+人物名	person name
+系列	series
+アイコン	icon
+クラス優勝	class win
+メッセージスキップ	message skip
+誕生日	birthday
+敵対者	adversary
+所属事業者	Affiliated company
+元パートナー	ex-partner
+在位期間	period of reign
+施行日	Enforcement date
+現状	status quo
+社色	company color
+都市圏面積 平方マイル	metropolitan area square miles
+面積順位	Area ranking
+社員数	number of employees
+成功数	number of successes
+参加国 地域数	Participating countries Number of regions
+隣の駅	next station
+総面積 平方キロ	Total area square kilometer
+死去年	death last year
+2装甲	2 armor
+コンテンツ	content
+標高ft	altitude ft
+業種	Industry
+元首	head of state
+当選者得票数	Number of elected votes
+回数	number of times
+バスト	bust
+過去の所属リーグ	past league
+副大統領職名	Vice President Title
+首相等年代終	end of prime minister
+母校	alma mater
+司教	bishop
+公用語	Official terminology
+活動期間	Activity period
+所属政党	political party
+過去の所属レベル	past membership level
+7節目調	7th knot tone
+7放送枠	7 broadcast slots
+職務代行者氏名	Name of agent
+その他職歴	Other work history
+学長	President
+スカパー 閉局日	SKY PerfecTV closing date
+pib per cápita	pib per capita
+日本名	Japan name
+優勝	win
+特別衛星放送	special satellite broadcasting
+当選者得票率	Winner vote percentage
+コントロール	Control
+創設者	Founder
+下位区分種類	subdivision type
+流域面積	basin area
+地図ラベル	map label
+département	departure
+レイアウト画像	layout image
+地質時代	geological age
+満文	Full sentence
+特性	Characteristic
+特別開局日	Special opening day
+参照方法	Reference method
+議員数	number of members
+全長	full length
+設計統括	design manager
+リングネーム	ring name
+進化前	before evolution
+建国時期	Founding period
+機関紙	bulletin
+過去の所属チーム	
+議員集計年月日	Assembly member tally date
+アナログ放送	analog broadcasting
+君主号	monarch number
+代表作	Masterpiece
+裁判年月日	Judgment date
+上映時間	screening time
+subdivisiónタイプ	subdivision type
+初出場	first appearance
+放送チャンネル番号	broadcast channel number
+1a	1a
+sd年	sd year
+最大差敗戦試合開催月日	Maximum loss match date
+gdp値	gdp value
+2在任期間	2 tenure
+オリンピック最高成績	Best Olympic result
+4番組名	4 program name
+fifa加盟	join fifa
+中継局	relay station
+軌道周期	orbital period
+ゼネラルマネージャー	general manager
+クラブ成績更新日	Club update date
+隣接自治体 行政区	Neighboring municipality Administrative district
+容量	capacity
+地方	region
+通算獲得ポイント	total points earned
+平均水深	Average depth
+段数	Number of steps
+路線名	Route name
+総面積 平方マイル	total area square miles
+解散	dissolution
+滑走路 長さm	runway length m
+ネック	neck
+配給	distribution
+乗入路線数	Number of train lines
+廃止理由	Reason for abolition
+県旗	prefectural flag
+車名補	supplementary car name
+特別開局月	Special opening month
+4落選者名	4 names of losers
+リーグ チャンピオンシップ年度	League Championship Year
+開始日	start date
+首長	Chief
+離心率	Eccentricity
+aクラス	a class
+路線色	route color
+死亡日	date of death
+3枚目画像の説明	Description of the third image
+亜綱	subclass
+県議会議席数	Number of prefectural assembly seats
+キャンパス	campus
+unité urbaine	unite urbaine
+企画	plan
+国籍	Country of Citizenship
+gdp元追記	gdp original append
+2頭頂高	2 head height
+埋葬日	burial date
+国旗説明	flag explanation
+当日有権者数	number of voters on that day
+滑走路 ils	runway ils
+司祭	priest
+選出年	Elected year
+営業利益	Operating income
+3名称	3 name
+得票数	number of votes
+和暦在位期間	Japanese calendar reign
+大喪儀	big funeral
+親戚	relatives
+英文	English
+前回受賞作	Last award-winning work
+音楽フォーマット	music format
+ゴールデングローブ賞	golden globe awards
+チームカラー	team color
+著者	author
+最大都市	largest city
+正式名称	Formal name
+4落選者比例重複	4 loser proportional overlap
+閉場	closed
+通信機能	Communication function
+初の国際試合スコア	First International Match Score
+responsabilité	response
+プレジデンツトロフィー	presidents trophy
+先旗	first flag
+未検証	unverified
+銃身長	gun length
+評語	critique
+特記事項	Remarks
+落選者新旧別	Unsuccessful candidates old and new
+下部組織概要	Subordinate organization overview
+直径	diameter
+子供	child
+2次番組備考	Second program notes
+構造形式	Structural form
+居住地区数	Number of residential districts
+原語表記	Original language notation
+参議院	House of Councilors
+プレーオフ回数	number of playoffs
+肖像サイズ	portrait size
+韓国における漢字	Chinese characters in Korea
+変遷年月日	Transition date
+下位分類名	subclass name
+本名和名	Real name Japanese name
+3落選者名	3 names of losers
+曲名	song title
+ストキング	Stocking
+幕内戦歴	Makuuchi history
+背景色	Background color
+sdスコア	sd score
+世襲の有無	Presence or absence of heredity
+fs年	fs year
+区章	Ward emblem
+方言	dialect
+生涯戦歴	lifetime war record
+2型式番号	2 model number
+収容人数	Seating capacity
+谥号	acknowledgment
+ダグアウト	dugout
+モットー	motto
+受賞	Award
+4次首相名	4th prime minister name
+国旗画像	flag picture
+国際大会出場回数	International Tournament Appearances
+改名	rename
+地方行政区分名	Local administrative division name
+表彰台回数	Number of podiums
+緯度秒	latitude second
+ゴール数	number of goals
+5放送局	5 broadcasting stations
+タイプ	type
+市街地面積 平方マイル	city ​​area square miles
+ガリシア語率	Galician rate
+総延長距離	total extension distance
+出場チーム数	Number of participating teams
+装弾数	ammunition capacity
+目的地	Destination
+成績更新日	Grade update date
+gdp値元	gdp value source
+最大水深	Maximum depth
+市街地人口	urban area population
+画像のサイズ	image size
+ちかい	close
+spスコア	sp score
+表スタイル	table style
+県議会議長	Prefectural Assembly Chairman
+gdp順位mer	gdp ranking mer
+面積数値	Area value
+設置場所	Installation location
+構造設計者	Structural designer
+欧州議会議席数	Number of seats in the European Parliament
+本社所在地	Head office location
+現在の自治体	Current municipality
+アルファベット表記	alphabetical notation
+フェンスの高さ	fence height
+完成年	Completion year
+6落選者得票数	6 number of votes lost
+5放送枠	5 broadcast slots
+他の活動	other activities
+上部組織	Upper organization
+下院代表職名	House representative title
+区長	head of a ward
+延長	Extension
+州旗	state flag
+紋章要約	coat of arms summary
+利き足	Dominant foot
+透明度	Transparency
+シリーズディレクター	series director
+生息図キャプション	habitat map caption
+誌名略称	Journal name abbreviation
+前大会	previous tournament
+国名	Country name
+大学設置年	University establishment year
+興行収入	performance income
+巻数	number of turns
+g第 シャツ	gth shirt
+出場 得点	Participation Score
+起点駅	starting station
+会計年度	fiscal year
+国花	national flower
+輸送人員	number of passengers
+アジアシリーズ優勝	Asia Series Winner
+開局日	Opening date
+離任	resignation
+プレーオフ 回数	number of playoffs
+運営	operation
+5落選者名	5 names of losers
+ラテン文字	latin letters
+紋章の説明	coat of arms description
+発音	pronunciation
+今年度順位	This year's ranking
+ボディタイプ	body type
+3落選者年齢	3 Age of unsuccessful candidates
+起工	groundbreaking
+población	poblacion
+他言語表記	Other language notation
+主要聖地	main sacred place
+備考全幅	Remarks Width
+物理的特長	Physical features
+加入日	joining date
+最終階級	final class
+補佐官職名	aide title
+2前番組	2 previous program
+総重量	Gross weight
+3落選者得票率	3 Lost vote rate
+日程	schedule
+脚本	screenplay
+封切日	Release date
+面積値	Area value
+名称	name
+ヒップ	hip
+平仮名表記	Hiragana notation
+主な楽曲	main song
+地区	district
+指揮	Command
+必要環境	Required environment
+2前代	2 previous generation
+総距離	total distance
+主催	organizer
+監督年	year of supervision
+主要部門	Main department
+最大差勝利試合スコア	Max Difference Winning Match Score
+中心都市	central city
+現職氏名	Incumbent name
+選手	player
+独立教会名 自治教会名ほか教会組織名	Independent church name Autonomous church name and other church organization name
+勲等	Order of Merit
+2落選者得票数	2Number of votes lost
+2放送局	2 broadcasting stations
+4落選者所属	4 Unsuccessful affiliation
+3搭乗者	3 passengers
+支流	tributaries
+後裔	descendants
+página web	pagina web
+ユースクラブ	youth club
+没年月日	date of death
+スカパー 閉局年	SKY PerfecTV closed year
+画像ファイル名	image file name
+チーム名の変遷	Change of team name
+参謀長	chief of staff
+議院代表氏名	Representative name of the House of Representatives
+製作費	Production cost
+2番組名備考	2 program name remarks
+閉局年	Closed year
+発行部数調査年月	Circulation survey date
+路線記号	route symbol
+最大差勝利試合対戦相手	Biggest Winning Match Opponent
+出走回数	Number of starts
+市長	Mayor
+2全長	2 total length
+アニメーション制作	Animation production
+都市数	number of cities
+誕生場所	place of birth
+党員 党友数	number of party members
+主な出演作	Main appearance
+所属チーム	team
+保有機材数	Number of owned aircraft
+カンファレンス	conference
+州花	state flower
+他元首等氏名	Name of other head of state
+ワイルドカード年度	Wildcard year
+チーム名	team name
+総人口特記事項	Total Population Remarks
+成立年月日	Established date
+6前番組	6 previous program
+湖沼型	Lake type
+補佐官氏名	Aide's name
+首相等肩書	prime minister title
+経度	longitude
+低軌道	low earth orbit
+地図名	map name
+アジアシリーズ出場	Asia Series participation
+記念競輪名称	Commemorative bicycle race name
+公式名称	official name
+ホイールベース	Wheelbase
+与党	ruling party
+gentilé	Gentile
+駅等級	station class
+比例順位	proportional rank
+現地語県名	Local language prefecture name
+駆動方式	Drive system
+シンボル	symbol
+都市圏面積 平方キロ	metropolitan area square kilometer
+最多優勝	most wins
+下院	House of Commons
+他出版社	Other publisher
+開館月	Opening month
+県都	prefectural capital
+レコード樹立年	Record year
+放送枠	Broadcast slot
+3a	3a
+亜目	Suborder
+6番組名	6 program name
+全米映画批評家協会賞	National Society of Film Critics Award
+2pf名称	2pf name
+人元	person
+none テストドライバー	none test driver
+放送分	Broadcast minutes
+搭乗者	passenger
+設立年月日	Date of establishment
+2名称	2 name
+生年	year of birth
+枠幅	frame width
+学歴	educational background
+サイト名	Site name
+首相種別	Prime Minister type
+住民の呼称	Name of residents
+所属党派	party affiliation
+画像	image
+再編成	reorganization
+レーサー	racer
+キャリア	career
+副大統領	Vice President
+3body	3body
+繁体字	Traditional Chinese
+カタカナ表記	Katakana notation
+スカパー 閉局月	SKY PerfecTV
+英称 別称	English name
+国旗	national flag
+元首等肩書	head of state title
+下院議員定数	House of Representatives Quota
+断絶	break
+2枚目画像名	2nd image name
+ディスク径	disc diameter
+原動機関	prime mover
+連邦下院議員	federal congressman
+f副シャツ	f vice shirt
+即位礼	enthronement ceremony
+活動内容	Activity content
+歴代	successive generations
+爵位	rank
+画像幅	image width
+役職	Position
+起源	origin
+最終出場	Final appearance
+7落選者得票率	7 Lost vote rate
+総延長	total length
+標高 フィート	elevation feet
+国歌名	national anthem name
+職名	job title
+キャラクターボイス	character voice
+bクラス回数	b class times
+運営事業者	Operator
+特別事業者	special business operator
+1日利用者数	Number of users per day
+影響を与えた人物	influencer
+人口	population
+歴史	history
+得点者	scorer
+ニューヨーク映画批評家協会賞	New York Film Critics Association Award
+会長	Chairman
+崩御	demise
+画像ファイル	Image file
+詳細住所	detailed address
+上院代表氏名	Senate representative name
+最終勝利	final victory
+漢名	Chinese name
+hd開始日	hd start date
+水面積率	water area ratio
+落選者比例重複	Unsuccessful Proportional Duplication
+重さ	weight
+肩書き	Title
+車名	car name
+後任者	a successor
+2y	2 years
+国旗リンク	flag link
+cd年	cd year
+王朝	dynasty
+成因	Origin
+計画の期間	period of planning
+特別閉局年	Special closing year
+州首相氏名	Premier name
+加入順	Join order
+生月	birth month
+ラウンジ	lounge
+サーキット画像	circuit image
+言語コード	language code
+région	region
+3型式番号	3 model number
+開局月	Opening month
+漢字	Chinese characters
+ボール	ball
+ペグヘッド角度	peg head angle
+周囲長	Circumference
+コード	code
+市章幅	City emblem width
+時代	age
+ディレクtv閉局月	direct tv closing month
+面積項目	area item
+2落選者年齢	2 Age of the loser
+初土俵	first ring
+生誕	birth
+población post	población post
+読み	reading
+管理運営	Management and operation
+閉局日	closed day
+分家	branch family
+下綱	Shimotsune
+8落選者名	8 name of loser
+陵所	mausoleum
+準州木	Territory tree
+幼称	childhood name
+英語名	English name
+作画	drawing
+元コーチ	former coach
+先代	predecessor
+2次首相名	second prime minister name
+7前番組	7 previous program
+開催地数	Number of venues
+none デビュー戦	none Debut match
+運用機関	Asset manager
+乗車人員	number of passengers
+範囲	range
+首長種別	chief type
+3当代	3 contemporary
+出身	where one is from
+ロゴサイズ	logo size
+母親	mother
+座標地域	coordinate area
+上院議員	senator
+対応機種	Compatible models
+誕生	birth
+prénom	prénom
+クラブ	club
+没月	dying moon
+別号	another name
+面積追記	Postscript area
+チームロゴ画像	team logo image
+鳥など	birds etc.
+資本金	capital
+gdp統計年mer	gdp statistics year mer
+8落選者所属	8 unsuccessful affiliation
+代表年	Representative year
+読み込み速度	loading speed
+現役自衛官数	Active duty SDF personnel
+人員	personnel
+最大勾配	maximum slope
+ゲームジャンル	game genre
+設置者	Installer
+市旗幅	city ​​flag width
+選択式装備	optional equipment
+hd開始年	hd start year
+恋人	lover
+選手宣誓	player oath
+裁判要旨	summary of the trial
+レイティング	Rating
+セーブファイル数	number of save files
+ペグ	Pegs
+都市名	Name of a city
+補足	supplement
+完成月	Completion month
+3p	threesome
+車種	car model
+サーキット名	circuit name
+w杯初出場年	World Cup debut year
+年間予算	annual budget
+起点	starting point
+最終投票率	final voter turnout
+女性実務総数	Total number of female practitioners
+注記	Notes
+3次首相名	3rd prime minister name
+写真サイズ	photo size
+アイドル名	idol name
+説明	explanation
+政策委員会責任者氏名	Name of Policy Board Officer
+初の国際試合開催年	Year of first international match
+準州首相	territorial prime minister
+プロジェクト	project
+7落選者年齢	7 Unsuccessful age
+運転時隔	driving interval
+フランチャイズの遍歴	Franchise history
+下位行政区画	subdivision
+経済地区	economic district
+県章	Prefectural emblem
+3節目題目	3rd Section Title
+現在のチーム名	current team name
+電化区間	electrified section
+開発 発売元	Development Publisher
+最大差勝利試合開催年	Biggest win year
+親署	parent signature
+位置図サイズ指定	Location map size specification
+ホーム	home
+議院名	House name
+位置図の見出し	Location map heading
+皇配	consort
+部隊	troop
+判例集	collection of precedents
+水系	water system
+チームロゴ	team logo
+都道府県章	prefecture emblem
+参加チーム数	Participating teams
+英称	English name
+物理チャンネル	physical channel
+ディビジョナル チャンピオンシップ回数	Number of Divisional Championships
+その他	others
+放送期間	Broadcast period
+備考	remarks
+上院	Senate
+緯度	latitude
+閉会式	Closing session
+1節目題目	1st Section Title
+選挙区	constituency
+単一の出典	single source
+指高	finger height
+cctld追記	add cctld
+ドラフト	draft
+人口出典	population source
+使用弾薬	ammunition used
+チーム史	team history
+グラウンド	ground
+現況	current situation
+落選者推薦 支持	Recommend unsuccessful candidates Support
+特別ch	special channel
+武装	armament
+ギリシャ語名	Greek name
+編集部名	Editorial department name
+独語州名	German state name
+性別	sex
+ジャンル	genre
+定員	Capacity
+依頼ページ	request page
+2落選者所属	2 Unsuccessful affiliation
+1namedata	1 name data
+保有機数	number of aircraft
+学校種別	School type
+地図説明	map explanation
+3落選者当落	3 losers
+インターネット	the internet
+父親	father
+発売日	Release date
+各国語表記	National language notation
+閉局月	Closed month
+放送日	On-air date
+ニックネーム	nickname
+著名使用楽器	famous instrument
+現職者	incumbent
+初戦	First match
+御名	name
+創設年度	Founding year
+配偶者	spouse
+製造数	number of production
+駐日大使館の所在地	Location of Embassy in Japan
+掲載誌	Publication magazine
+fdスコア	fd score
+社名	company name
+修繕	repair
+none 人当たりgdp	none gdp per capita
+前身政党	predecessor political party
+2節目調	2nd knot tone
+郵便番号の区分	Zip code division
+作品名	work name
+5落選者得票数	5 number of votes lost
+発生電力	Generated power
+統計年度	statistical year
+オリンピック初出場	Olympic debut
+市旗	city ​​flag
+過去の本拠地	home of the past
+肖像	portrait
+現在の首座主教	Current Primate
+事務所	Office
+行政区画名	Administrative division name
+最多収容人数	maximum capacity
+半島名	peninsula name
+最多得点選手	Top scorer
+作動方式	Actuation method
+標高 メートル	altitude meters
+父母	parents
+延床面積	Total floor area
+最大差敗戦試合対戦相手	Largest Lost Match Opponent
+政党交付金	Political party grant
+dirigentes títulos	dirigentes titulos
+主要子会社	Main subsidiary
+6放送枠	6 broadcast slots
+車番	car number
+住居	residence
+エンブレム	emblem
+放送内容	broadcast content
+終了	end
+2落選者比例重複	2 loser proportional overlap
+発生現場	Site of occurrence
+略名	Abbreviated name
+北緯度	north latitude
+議会構成	parliamentary composition
+緯度ns	latitude ns
+2a	2a
+国際大会最高成績	International tournament best results
+列聖日	canonization day
+クライマックスシリーズ回数	Number of climax series
+スピンオフ作品	spin-off work
+エントリー名	entry name
+独立教会の宣言	Declaration of the Independent Church
+7落選者得票数	7 number of votes lost
+最大差敗戦試合	Maximum losing match
+7番組名	7 program name
+元首等年代終	the end of the era of the head of state
+アナログ開局月	Analog opening month
+開始号	starting number
+最終位置	final position
+自治領等	Self-governing territory, etc.
+画像解説	Image commentary
+none 人口大きさ	none population size
+6節目題目	Section 6 title
+輸送実績	Transportation performance
+皇后	Empress
+分類	classification
+副項目名	sub-item name
+議長歴代	successive chairmen
+6落選者年齢	6 Age of losers
+英語表記	English notation
+hd開始月	hd start month
+f正ストッキング	f positive stockings
+称号	title
+国章リンク	coat of arms link
+目的	Purpose
+国歌	national anthem
+画面サイズ	Screen size
+月日	time
+ソートキー	sort key
+対象国	Target country
+得票率	percentage of votes
+出身地	Birthplace
+互換ハード	compatible hardware
+4前首相名	4 former Prime Minister's name
+3落選者比例重複	3 loser proportionate duplication
+銀行	Bank
+全長滑走路	full length runway
+カラー	Color
+定数	constant
+空欄記載	Fill in the blank
+ダンススコア	dance score
+3特能装備	3 special equipment
+特能装備	special equipment
+情報年度	information year
+好きなもの	Favorite things
+人口に関する備考	Notes on Population
+趣味	hobby
+垂直飛び	vertical jump
+後任	successor
+最後の当主	the last head
+焦点都市	focal city
+詳細	detail
+党首職名	Party leader title
+レベル	level
+fsスコア	fs score
+他元首等肩書	Other titles such as heads of state
+原作	original
+シリーズ優勝回数	Series wins
+作品	the work
+g正シャツ	g positive shirt
+発行部数	Circulation
+子女	children
+空欄表題	blank title
+市街地人口密度 平方キロ	Urban area population density square kilometer
+3在任期間	3 tenure
+シリーズ出場回数	Series Appearances
+寄託者	Depositor
+主な作品	Main works
+市街地面積 平方キロ	square kilometer
+2当代	2 contemporary
+副項目	sub-item
+人口追記	Population postscript
+チーム本拠地	home of the team
+収録時間	Duration
+タイトル	title
+次席閣僚職名	Deputy Cabinet Minister Title
+本店所在地郵便番号	Head office location postal code
+搭載機器説明	Installed equipment description
+本名	real name
+最大の地域	largest area
+5節目題目	Section 5 title
+路線数	Number of routes
+通称	common name
+セーブファイル容量	Save file capacity
+銃口初速	muzzle velocity
+フレット数	number of frets
+イラスト	An illustration
+ローマ字mr	romaji mr
+コーチ	coach
+生死	life and death
+戦闘	fight
+兵役適齢	military age
+初代就任者	first incumbent
+capital denominación	capital denominación
+最大照尺距離	Maximum sight distance
+創設年	Founding year
+亜種	Subspecies
+射場	shooting range
+地方人口率	Rural population rate
+共同作業者	collaborators
+4次番組	4th program
+特別閉局月	Special closing month
+読者対象	Target audience
+続柄	relationship
+関係する人物	person involved
+構成体種別	Construct type
+存命人物の出典明記	Citation of living person
+開催日	event date
+次旗	next flag
+1作目	1st work
+前回年度	last year
+著名な実績	notable achievements
+滑走路 表面	runway surface
+人口密度 平方マイル当たり	population density per square mile
+次回大会	Next tournament
+公式サイト	Official site
+職務代行者役職	Job title
+前回選挙	last election
+出生地	Place of birth
+前回比	Compared to last time
+用途	Usage
+7落選者新旧別	7 Unsuccessful candidates old and new
+廃止	abolition
+país	país
+没年	year of death
+7節目題目	Section 7 title
+最高行政執行者名	Chief executive name
+紋章説明	coat of arms explanation
+2番組名	2 program name
+紋章	coat of arms
+駅種別	Station type
+放送国	broadcasting country
+レコードタイム	record time
+代表	representative
+アナログ事業者	Analog operator
+3前番組	3 previous program
+当選回数	Winning times
+ユース年	youth year
+生誕日	birthday
+市場情報	Market information
+次代	next generation
+英名	English name
+東経度	east longitude
+連盟数	number of federations
+区分	Division
+次番組	next show
+アナログch	analog channels
+カテゴリー	Category
+協定世界時との時差	Time difference from Coordinated Universal Time
+駅間a	between stations a
+合計スコア	total score
+2blankname	2blankname
+兄弟	Brother
+番組名備考	Program name remarks
+駐車場	parking
+職業	Profession
+本店所在地	Head office location
+スカパー	SKY PerfecTV
+生没	birth and death
+派生組織	derived organization
+チーム名の遍歴	Team name history
+opテーマ	op theme
+言語	language
+後継政党	successor party
+ドライバーズタイトル	drivers title
+脚注	footnote
+生日	birthday
+従業員数	number of employees
+所属チーム名	Affiliation team name
+根拠地	base
+オンラインサービス	online service
+種別	kinds
+最高点	highscore
+パンツ	Pants
+ウェブ	web
+開業年月日	Opening date
+紋章サイズ	coat of arms size
+郵便番号	post code
+元首等氏名	Name of head of state
+選出方法	Election method
+親族 政治家	Relatives Politicians
+継承形式	Inheritance form
+就任	Inauguration
+陸上面積 平方マイル	square miles of land
+貸出金残高	loan balance
+gdp統計年	gdp statistical year
+日本アカデミー賞	Japan Academy Award
+生年月日	Date of birth
+追号勅定年月日	Posthumous Imperial Retirement Date
+自治体数	number of municipalities
+監督	directed by
+odスコア	od score
+上院議員定数	senator quota
+利き腕	Dominant arm
+前番組	previous program
+総質量	total mass
+swiftコード	swift code
+プレイ人数	Number of players
+経常利益	Ordinary income
+左袖	left sleeve
+1y	1 year
+旧メンバー	old member
+前首相名	Former prime minister name
+四股名	shikona
+ディレクtv事業者	directive tv operators
+軍事費	military expenditure
+前回大会	last tournament
+フロントピックアップ	front pickup
+原案	draft
+作成日時	creation date
+画像の説明	image description
+通用	common
+門階級なし	no rank
+郵便	Post
+外部リンク名	external link name
+退任理由	Reason for leaving
+選挙制度	electoral system
+1pp	1pp
+賞罰	reward and punishment
+ヴェネツィア国際映画祭	Venice International Film Festival
+学部	Faculty
+前任者	Predecessor
+メーカー	Manufacturer
+使用武器	Weapon used
+水面面積 平方キロ	square kilometer of water surface area
+2搭乗者	2 passengers
+fifaコード	fifa code
+放送局名	Broadcasting station name
+除隊後	After discharge
+竣工	Completion
+4次代	4th generation
+埋葬地	burial place
+緯度分	latitude
+成果	Outcome
+別名	alias
+都道府県旗	prefecture flag
+監督チーム	coaching team
+議院	House of Representatives
+州木	state tree
+制作	Production
+施行者	Enforcer
+国防大臣	Minister of Defense
+要改訳	Translation required
+退任日	Retirement date
+軌道要素	orbital element
+位置	position
+2pp	2pp
+入幕	advancing to the first grade
+アナログ閉局月	Analog closed month
+準州旗	territorial flag
+平均標高	average elevation
+3番組名	3 program name
+英国アカデミー賞	british academy awards
+戒名	posthumous name
+格付	rating
+f正パンツ	f positive pants
+デジ中継局	digital relay station
+代表者	representative
+元号	Era name
+戦功	military exploits
+取り壊し	demolition
+フルネーム	full name
+政体	government
+質量	mass
+命名年月日	Naming date
+カンファレンス チャンピオンシップ回数	Number of conference championships
+日本語名称	Japanese name
+接続する主な道路	Main connecting road
+関連組織	Related organization
+審判宣誓	referee oath
+注釈	Annotation
+最大差敗戦試合スコア	Maximum Loss Match Score
+守護聖人	patron saint
+設計者	Designer
+1option name	1option name
+法人名	Corporate name
+生息図	Habitat diagram
+モデル名	Model name
+位置図	Location map
+順位数	number of ranks
+主なイベント	Main event
+トランスミッション	transmission
+駅番号	station number
+軌道	trajectory
+テールピース	tail piece
+多数意見	majority opinion
+首相等年代始	prime minister, etc.
+ラテン字	latin letters
+開場	Opening
+言葉を濁さない	don't muddy your words
+皇居	Imperial Palace
+徴兵制度	conscription
+cdスコア	cd score
+現職就任日	Inauguration date
+路線図	route map
+勤務先	workplace
+定価	List price
+日韓クラブチャンピオンシップ出場回数	Japan-Korea club championship appearances
+プロデューサー	producer
+静止移行軌道	geostationary transfer orbit
+3総重量	3 gross weight
+期間	period
+没日	sunset
+型式番号	model number
+最大差敗戦自愛	maximum defeat
+コントローラ	controller
+ディレクtvch	direct tvch
+署名	signature
+民族名	Ethnic name
+廃止詳細	Obsolete details
+刊行頻度	publication frequency
+設置年月日	Installation date
+事件名	case name
+出生日	date of birth
+アナログ閉局年	Analog closed year
+準州花	Territory Flower
+周回対象	Orbit target
+追号	postscript
+上綱	upper rope
+ウエブ	web
+población año	poblacion anno
+東経秒	east longitude second
+水面面積 平方マイル	square miles of water
+最高位	highest rank
+f副ストッキング	f vice stockings
+主な受賞歴	Awards received
+ディビジョン	Division
+階数	number of floors
+3次代	3rd generation
+グラミー賞	grammy awards
+発売元	Selling agency
+下院議員集計年月日	House of Representatives Tally Date
+2原動機関	2 engine
+キャラクターデザイン	Character Design
+元首職	head of state
+副題	subtitle
+画像名	image name
+g正パンツ	g positive pants
+両親	parents
+1枚目画像名	1st image name
+売上台数	Sales volume
+英文社名	English company name
+議長氏名	Chairman's name
+ブースター	booster
+開始年	Start year
+日本語国名	Japanese country name
+スカパー 事業者	SKY PerfecTV operator
+isoコード	iso code
+スタジアム名称	Stadium name
+none ドライバー	none driver
+民族	People
+元首等年代始	beginning of the year
+通称号	Nickname
+éditeur	editeur
+地図画像	map image
+当選者推薦 支持	Candidate Recommendation Support
+北緯秒	North latitude second
+3落選者得票数	3 number of votes lost
+クラブ名	club name
+シャフレスターン	shafflestan
+自治体の数	number of municipalities
+3装甲	3 armor
+前代	Previous generation
+イベント名称	Event name
+3pattern	3pattern
+他の肩書	other titles
+大きさ	size
+製造時期	time of manufacture
+党名	party name
+オリンピック	Olympic
+dp統計年	dp statistical year
+ウェブサイト	website
+ピックアップ	pick up
+墓所	graveyard
+4前代	4 previous generation
+ふりがな	Furigana
+建設者	builder
+8節目調	8th node tone
+議院代表職名	House representative position title
+施工	Construction
+政策委員会責任者職名	Policy Board Officer Position Title
+公用語名称	Official language name
+出典の明記	Attribution
+ils滑走路	ils runway
+氏族	clan
+血液型	blood type
+次作	next work
+比例候補者数	proportional number of candidates
+公式サイトタイトル	Official site title
+賞歴	Awards
+6次番組	6th program
+フィンガーボード	finger board
+7落選者名	7 names of losers
+人口順位	Population ranking
+落選者年齢	loser age
+下位区分名	subdivision name
+クライマックスシリーズ	climax series
+次回受賞者	next winner
+3武装	3 armament
+英文表記	English notation
+振興局	Promotion Bureau
+外部接続端子	External connection terminal
+連盟加盟	Federation membership
+アジアシリーズ優勝回数	Asia Series wins
+スケール長	scale length
+画像の注釈	image annotation
+死没日	date of death
+カンヌ国際映画祭	Cannes Film Festival
+本部所在地	Headquarters location
+設置日	Installation date
+キロ程	kilometer
+4落選者得票率	4 Lost vote rate
+出演者	Performer
+バスク語	Basque
+プロ入り年度	Professional year
+4前番組	4 previous program
+人数	Number of people
+年間適齢到達人数	Number of people reaching the appropriate age per year
+副議長氏名	Vice Chair Name
+バスク語名	Basque name
+家名 爵位	family name
+島名	island name
+3放送枠	3 broadcast slots
+夏時間の等時帯	Isochrones for Daylight Saving Time
+解散理由	Reason for dissolution
+韓国語	Korean
+シリーズ構成	Series configuration
+独立市	independent city
+地区優勝	district championship
+外部リンク	External link
+首府	capital
+最高司令官名	Supreme Commander Name
+面積規模	Area scale
+マイレージサービス	Mileage service
+ウィングスパン	wingspan
+当落	success
+3title	3 titles
+主な事業	Main business
+備考 のスタイル	Remarks style
+視聴料金	viewing fee
+国防大臣名	Minister of Defense Name
+身位	position
+経歴年	career years
+研究分野	field of study
+現地語名	Local language name
+信仰	faith
+題名	Title
+連邦参議院	federal parliament
+下院議員数	House of Representatives
+現在の代表番組	Current representative program
+本店郵便番号	Head office zip code
+後継	successor
+周囲	surroundings
+担当官庁	Office in charge
+開館年	Opening year
+主な戦歴	Main battle history
+本姓	real surname
+綱階級なし	No Rope Class
+競輪場名	Velodrome name
+面積	area
+参考資料	Reference material
+コントロールノブ	control knob
+人口密度 平方キロ当たり	Population density per square kilometer
+チーム代表	team representative
+所属グループ	Group membership
+国略称	country abbreviation
+公式国名	official country name
+所有者	owner
+現役軍人数	Active military personnel
+4放送枠	4 broadcast slots
+標高	elevation
+放送時間	Airtime
+当選者新旧別	New and old winners
+2総重量	2 gross weight
+口径	caliber
+アクセス	access
+英語名称	English name
+路線番号	route number
+就任日	Inauguration date
+エレベーター数	number of elevators
+緯度度	latitude
+上下院 一院制	House of Representatives unicameral system
+市章の説明	Explanation of the city emblem
+空港名	airport name
+開会宣言	Opening declaration
+副総督	lieutenant governor
+4節目調	4th knot tone
+初出作品	first appearance
+代表得点	national team score
+廃止日	Obsolete date
+運営者	Administrator
+話数	number of episodes
+署名サイズ	signature size
+提供	offer
+ナレーター	narrator
+学名	scientific name
+3shorts	3shorts
+番組名	program name
+gdpmer追記	add gdpmer
+地方行政区分	local administrative division
+編集人 役職	editor
+崩御場所	place of death
+活動備考	Activity remarks
+更新	update
+終了号	end number
+リアピックアップ	rear pickup
+リーグ優勝	league championship
+最高峰	highest peak
+国際電話番号追記	Add international phone number
+スポーツ歴	Sports history
+引退	retirement
+地図サイズ	map size
+来場者数	The number of visitors
+影響を受けた人物	person affected
+最新レース	latest race
+確立年月日	Established date
+死没地	death ground
+部分的失敗	partial failure
+国際電話番号	international phone number
+亜科	Subfamily
+w杯最高成績	world cup best
+打ち上げ数	number of launches
+ピン音	pin sound
+永久欠番	retired number
+参加人数	The number of participants
+前職	former job
+ピッチサイズ	pitch size
+本部	headquarters
+subdivisión	subdivision
+最新版発表日	Latest release date
+ハブ空港	hub airport
+最大の都市	largest city
+観点	point of view
+全米映画俳優組合賞	Screen Actors Guild Award
+開催都市	Host city
+音声	audio
+代表出場 得点	National Team Score
+最大差勝利試合開催月日	Date of the biggest win match
+編集人 氏名	Editor Name
+発生年	year of occurrence
+年号	Era name
+国章画像	national emblem image
+映画	movie
+本拠	headquarters
+音楽レーベル	music label
+キー局	key station
+3次番組	3rd program
+製作会社	production company
+格闘スタイル	fighting style
+日本語	Japanese
+開通年	Opening year
+最寄駅	nearest station
+生地	material
+人口の出典	population source
+設立日	Date of establishment
+画像コメント	image comment
+投獄	imprisonment
+滑走路 幅m	Runway width m
+地図	map
+自治体コード	Municipality code
+開館日	Opening date
+副党首氏名	Deputy leader name
+収容人員	Capacity
+現職者就任日	Incumbent appointed date
+次大会	Next tournament
+(李顕龍 面積順位	(Lee Hyun-ryong area ranking
+予算	budget
+バックログ	Back log
+人口の時点	time of population
+チャンピオン回数	Number of champions
+2前首相名	2 Former prime minister's name
+bandera名称	bandera name
+edテーマ	ed theme
+código iso	codigo iso
+製作総指揮	Executive Producer
+g副シャツ	g vice shirt
+全名	full name
+準プレーオフ回数	Quasi-playoff count
+王室歌	royal song
+レイアウト	layout
+出身校	Alma mater
+8落選者年齢	8 Unsuccessful age
+大学名	University name
+片仮名	Katakana
+1節目調	1st knot tone
+最終戦	Final battle
+落選者得票率	Unsuccessful vote percentage
+所在地郵便番号	Location postal code
+参加国数	Participating countries
+幕府	Shogunate
+作者	author
+呼出名称	Call name
+時間帯追記	add time zone
+3全高	3 total height
+公開	Release
+大型映像装置	large screen
+前回優勝	Last time winner
+店舗数	Number of stores
+音楽	music
+リーダー	leader
+都市圏人口密度 平方マイル	Metropolitan Area Population Density Square Mile
+1option link	1option link
+得点数	number of points
+預金残高	deposit balance
+ウィキソース	Wikisource
+時間帯	time zone
+元服	coming-of-age ceremony
+宗教	religion
+プレーオフ 前後期制 回数	Playoffs First and second half system Number of times
+局名	station name
+7落選者所属	7 unsuccessful affiliation
+リンク	Link
+優勝回数	Number of wins
+スポンサー	sponser
+純資産	net worth
+4pp	4pp
+音楽モード	music mode
+開局年	Year of opening
+製造期間	manufacturing period
+3枚目画像名	3rd image name
+駐車台数	Parking number
+発行日	date of issue
+カンファレンス優勝	conference winner
+落選者所属	Unsuccessful candidate's affiliation
+内閣	Cabinet
+家紋名称	family crest name
+デモス	Demos
+崩御年月日時	Date of death
+初勝利	First victory
+君主家	monarch house
+時代設定	period setting
+6節目調	6th knot tone
+議員定数	number of members
+主な管轄	Main jurisdiction
+注音符号	Zhuyin sign
+ペルシア語州名	Persian state names
+男女	man and woman
+ポジション	position
+公用語名	Official name
+自治体首長	local government head
+貯水量	water storage
+生誕年	year of birth
+クラブ国籍	club nationality
+歌など	songs, etc.
+位置図幅	Location map width
+支店舗数	Number of branches
+記念競輪開催月	Commemorative bicycle race holding month
+愛称	Nickname
+隣接都道府県	Adjacent prefectures
+開会式	Opening ceremony
+表記	labels
+州のgdp	state gdp
+運航停止日	Suspension date
+死没	death
+内容過剰	Excessive content
+3前首相名	3 Former prime minister's name
+政党	political party
+再送信 配信	Resend Delivery
+総資産	Total assets
+出場試合数	Number of games played
+足のサイズ	foot size
+ウエスト	waist
+大婚年月日	Great marriage date
+国歌追記	national anthem postscript
+事件番号	case number
+fd年	fd year
+所在地幅	Location width
+文字色	Letter color
+誕生年月日時	date of birth
+重量	weight
+バンク	bank
+自動リンクなし	No automatic link
+スカパー 開局年	SKY PerfecTV opening year
+陵墓	mausoleum
+国旗幅	flag width
+都道府県章の説明	Explanation of prefecture emblem
+日本語版声優	Japanese voice actor
+次の駅	next station
+政府首脳官職	head of government
+ディレクtv	direct tv
+オリンピック出場回数	Olympic appearances
+デザイン	design
+総務会長	Chairman of General Affairs
+シュート	shoot
+2放送枠	2 broadcast slots
+演出	staging
+流派	school
+代表者種別	Representative type
+特記すべき概念	notable concepts
+戴冠日	Coronation date
+キロ程s	km
+コールサイン	callsign
+人口統計年	demographic year
+大学の略称	College abbreviation
+所属委員会	Affiliation Committee
+2落選者推薦 支持	2Recommend unsuccessful candidates Support
+王家	royal family
+大会名称	Tournament name
+党派	party
+国語	national language
+5落選者所属	5 unsuccessful affiliation
+営業キロ	operating kilometer
+クラブライセンス	club license
+使用チーム 大会	Used team Tournament
+解散年月日	Dissolution date
+時点	point in time
+政府首脳人物	head of government
+ゴールデンラズベリー賞	golden raspberry award
+下院代表氏名	House representative name
+開発元	Developer
+8落選者得票数	8 number of unsuccessful votes
+画像補正	image correction
+2落選者当落	2 losers
+現職画像	Incumbent image
+本名ピン音	real name pinyin
+スタンレーカップ	stanley cup
+聖歌伝統	chant tradition
+議員会館	Congressman's Office Building
+今年度	this year
+開館公演	Opening performance
+ロサンゼルス映画批評家協会賞	Los Angeles Film Critics Association Awards
+実務総数	Total number of practices
+最多出場選手	Most appearances
+電化方式	Electrification method
+線路数	number of tracks
+総面積	total area
+政治的思想 立場	political ideology
+4落選者得票数	4 number of unsuccessful votes
+出典	source
+学生数	number of students
+州旗画像	state flag images
+種類	type
+the dragonsカラー	the dragons color
+全幅滑走路	full width runway
+精度	accuracy
+コンストラクターズタイトル	constructors title
+ゲマインデ	gemainde
+芸名	stage name
+統計年	statistical year
+none 北緯 及びs 南緯	none north latitude and s south latitude
+所在地	location
+特撮	special effects
+得点王	Top scorer
+反対意見	opposite opinion
+州章	state emblem
+6落選者新旧別	6 Unsuccessful candidates old and new
+背番号	uniform number
+当選者所属	Winner's affiliation
+代表成績更新日	Representative update date
+4落選者新旧別	4 Unsuccessful candidates old and new
+優勝歴	Winning history
+原国籍	original nationality
+都市圏人口密度 平方キロ	metropolitan area population density square kilometer
+人口値	Population value
+官位	official rank
+廟号	mausoleum
+分野	field
+開設	opening
+ポケモン名	pokemon name
+キャラクター名設定	Character name setting
+任命者	appointee
+4名称	4 name
+頭頂高	head height
+収容能力	capacity
+高さ	height
+当選者比例重複	Winner proportional overlap
+bクラス	b class
+2武装	2 armament
+片仮名表記	Katakana notation
+略称	Abbreviation
+現職	Incumbent
+ディビジョン優勝	division winner
+名前	name
+区旗の説明	Ward flag explanation
+称号 勲章	title medal
+販売期間	Sales period
+プレーオフ 前後期制	playoff
+発表期間	Presentation period
+売上本数	number of units sold
+年間女性適齢到達人数	Number of women reaching the appropriate age per year
+最高出力	Maximum output
+放送開始	Broadcast start
+次回選挙	next election
+国章説明	Description of national emblem
+2落選者新旧別	2 Unsuccessful candidates old and new
+通貨コード	currency code
+4落選者年齢	4 Unsuccessful age
+建築面積	building area
+首相	prime minister
+本名繁体字	real name traditional
+5落選者新旧別	5 Unsuccessful candidates old and new
+所属路線	Belonging route
+陸上面積 平方キロ	square kilometer of land area
+打ち上げ費用	launch cost
+照明	illumination
+天皇名	emperor name
+公式ページ名	Official page name
+チャンネル名称	channel name
+4節目題目	Section 4 title
+ディレクtv開局月	direct tv opening month
+乗換	transfer
+の画像	Image of
+学派	school
+事業内容	Business content
+自由項目 内容	Free item Contents
+州議会	state legislature
+立ち位置	Standing position
+営業期間	business period
+ダッグアウト	dugout
+領域	region
+連邦上院議員	federal senator
+サイズ	size
+市街地人口密度 平方マイル	Urban Population Density Square Mile
+過去のチーム名	old team name
+g第 ストッキング	gth stockings
+旗画像	flag image
+指定日	Designated date
+主要な作品	major works
+位置画像幅	position image width
+簡体字	Simplified characters
+本名発音	real name pronunciation
+登録	register
+選挙回数	number of elections
+gdp追記	add gdp
+サイン	sign
+建国年月日	Founding date
+人口年	population year
+通貨	currency
+得点	score
+総人口	Total population
+最高売上ソフト	best selling software
+ディビジョナル チャンピオンシップ年度	Divisional Championship Year
+放送終了	End of broadcast
+元振付師	Former choreographer
+営利性	commercial
+参戦中	Participating
+球団名称	Team name
+8節目題目	Section 8 title
+シリーズ出場	Series entry
+キノティタス	Kinotitas
+主題歌	theme song
+氏姓	surname
+諡号	posthumous name
+レコードカテゴリ	record category
+建設費	construction cost
+4放送局	4 broadcasting stations
+画像キャプション	image caption
+パーソナリティ	personality
+エンジン	engine
+結果	result
+終了日	End date
+電話番号	phone number
+2落選者得票率	2 Lost vote rate
+次回年度	next fiscal year
+人名	person's name
+内容	content
+使用車両	Vehicle used
+パートナー	partner
+最低標高	Minimum altitude
+población puesto	población puesto
+夏時間	daylight saving time
+撮影	photograph
+即位	enthronement
+ナショナルチームによる国際大会	International competition by national teams
+意見	opinion
+境界未定	border undecided
+支庁	branch office
+スコアボード	score board
+番組	program
+異称	nickname
+路線距離	route distance
+身長	height
+リーグ優勝回数	Number of league wins
+変遷	change
+搭載機器	On-board equipment
+ディレクター	director
+統一金融機関コード	Uniform financial institution code
+原語	original language
+曖昧	ambiguous
+閉塞方式	Obstruction method
+死亡	death
+発行済株式総数	Total number of issued shares
+g正ストッキング	g positive stockings
+拠点航空会社	base airline
+装甲	armor
+旗要約	flag abstract
+アカデミー賞	Academy awards
+国章幅	national emblem width
+市外局番	Area code
+著名な家族	prominent family
+主要技術	Main technology
+運用者	operator
+水域面積	water area
+アレクサ	Alexa
+軌道半長径	orbital radius
+2節目題目	Section 2 title
+軌間	Gauge
+独自研究	original research
+航空連合	airline alliance
+議長出身党派	party from the president
+5前番組	5 previous program
+出版社	the publisher
+右袖	right sleeve
+選手写真ファイル名	player photo file name
+専門分野	Specialized field
+サスペンション	suspension
+呼称	name
+none 東経 及びw 西経	none east longitude and w west longitude
+会社名	company name
+使用期間	Period of use
+在位	reign
+次回受賞作	Next award-winning work
+上院代表職名	Senate representative title
+大嘗祭	Daijosai
+夏時間の協定世界時との時差	Time difference between daylight saving time and Coordinated Universal Time
+副駅名	Sub station name
+推奨環境	Recommended environment
+特別定価	special price
+死去地	place of death
+下位分類	subclass
+ターミナル数	number of terminals
+1option	1 option
+活動時期	Activity period
+発着回数	Arrival and departure times
+キャプション	caption
+sp年	sp year
+死去	passed away
+監督歴	Director history
+放送回数	Broadcast times
+出生	Birth
+2枚目画像の説明	Description of the second image
+有罪判決	conviction
+ブリッジ	bridge
+最低点	lowest point
+軍歴	military career
+打上げ日時	Launch date and time
+アナログ閉局日	Analog closing date
+シノニム	synonym
+公認政党	recognized political party
+測地系	Geodetic system
+創立年	Founding year
+f正シャツ	f positive shirt
+運行者	operator
+本拠地	home base
+首相等氏名	Name of prime minister
+最大差勝利試合	Biggest Winning Match
+平仮名	hiragana
+アニメ	animation
+人口密度値	Population density value
+cgモード	cg mode
+5落選者得票率	5 Lost vote rate
+第一作ソフト	first software
+本社郵便番号	Head office zip code
+冊数	number of books
+北緯分	north latitude
+参戦年度	Fiscal Year
+g副ストッキング	g vice stockings
+前の駅	previous station
+駅間b	between stations b
+チーム代表者	team representative
+水面面積比率	Water surface area ratio
+スカパー ch	SKY PerfecTV ch
+規模	scale
+8落選者新旧別	8 Unsuccessful candidates old and new
+省略	omit
+発行部数調査機関	Circulation survey agency
+スタッフ	staff
+関連キャラクター	Related characters
+東経分	east longitude
+落選者得票数	Number of votes lost
+別名義	another name
+シリーズ優勝	Series winner
+淡汽	light steam
+保有車両数	Number of owned vehicles
+生誕地	place of birth
+州名	state name
+上院議席数	Senate seats
+スコア	Score
+床面積	floor space
+ボディ	body
+紋章名	coat of arms name
+ネット局	net station
+漢字表記	Kanji notation
+振付師	Choreographer
+ポールポジション	pole position
+最高速度	maximum speed
+現在の番付	Current number
+得票順位	Voting rank
+6落選者所属	6 unsuccessful affiliations
+州首相肩書	title of premier
+自動車	Automobile
+現当主	current head
+人口測定時期	Population measurement period
+滑走路 方向	runway direction
+予備役軍人数	Reserve military personnel
+コーナー数	number of corners
+都道府県	Prefectures
+世帯数	number of households
+gdp値mer	gdp value mer
+開港	port opening
+兵種	type of soldier
+演奏所	concert hall
+上級部隊	senior unit
+日本語名	Japanese name
+ホームタウン	home town
+都市圏人口	urban area population
+面積大きさ	area size
+紋章画像	coat of arms image
+車両重量	vehicle weight
+ディレクtv開局日	direct tv opening date
+ステージ勝利数	Number of stage wins
+競技種目数	Number of sports events
+himno名称	himno name
+コンストラクター名	constructor name
+当選者年齢	Age of winner
+g第 パンツ	gth pants
+状態	situation
+下綱階級なし	No junior class
+地域	area
+オーナー	owner
+拡張	Expansion
+身体接触	physical contact
+本拠地画像	base image
+アブコワールドトロフィー優勝	Abuco World Trophy Winner
+下部組織	infrastructure
+刊行期間	publication period
+距離	distance
+準プレーオフ	Quasi-playoff
+初の国際試合開催月日	Date of the first international match
+区章の説明	Explanation of Ward Insignia
+協会	Association
+レ値	value
+州知事	governor
+ディレクtv閉局日	direct tv closing date
+次番組備考	Next program remarks
+枚数	Number of sheets
+郵便略号	postal abbreviation
+1p	1p
+任期	term of office
+所属組織	Affiliation
+寄せ	Gathering
+建国形態	form of founding
+就航都市	Destination city
+現職代数	incumbent algebra
+制作局	production department
+レーベル	label
+統計の年	year of statistics
+姿勢制御方式	Attitude control method
+客席	audience
+プレーオフ	play off
+乗降人員	passengers
+下院議席数	number of seats in the House of Representatives
+初の国際試合対戦相手	first international opponent
+売上高	amount of sales
+ひかりtv	hikari tv
+iso符号	iso code
+組織名	organization name
+活動地域	Area of ​​activity
+宣伝	propaganda
+河口	estuary
+上映スクリーン数	number of screening screens
+代表出場	National team appearance
+原題	original title
+経度秒	longitude second
+都道府県名	Name of prefectures
+主要人物	main character
+発行人	Publisher
+確立形態	Established form
+代数	algebra
+英文誌名	English journal name
+出場得点	participation score
+放送局	Broadcaster
+楽器	instrument
+画像サイズ	image size
+視聴可能世帯数	Number of viewing households
+区旗	ward flag
+市章	city ​​emblem
+開業日	Opening date
+担当地域	Responsible area
+最新作発売日	latest release date
+航空会社	Airlines
+チーム	team
+g副パンツ	g vice pants
+着工	start of construction
+議会運営	parliamentary operation
+画像の見出し	image heading
+リーグ	league
+列聖場所	place of canonization
+名前変更	rename
+5落選者年齢	5 Age of losers
+アジアシリーズ出場回数	Asia Series Appearances
+首都	capital
+座標	Coordinate
+次首相名	name of next prime minister
+体重	body weight
+国語の呼称	Name of national language
+流量	flow rate
+1作目発売日	1st release date
+概要	Overview
+方向滑走路	direction runway
+進化後	after evolution
+自由項目 項目名	Free item Item name
+エンディング数	number of endings
+ロゴデザイン	logo design
+出場	Participation
+等時帯	isochronous
+渾名	nickname
+放送映画批評家協会賞	Broadcast Film Critics Association Award
+解散年	Dissolution year
+区の歌	Ward song
+記念日	anniversary
+特別閉局日	Special closed day
+選出国	elected country
+隣接自治体	Adjacent municipality
+効力発生	coming into force
+戴冠	crowning
+3原動機関	3 engine
+テクニカルディレクター	technical director
+拠点	Base
+番号	number
+1option color	1 option color
+コンティニュー	continue
+開催時期	Held time
+人口数	Population
+国旗縁	flag edge
+5落選者比例重複	5 loser proportional overlap
+ファイナル進出	Advance to the final
+7放送局	7 broadcasting stations
+最高到達点	highest point
+ブルーリボン賞	blue ribbon award
+敷地面積	site area
+適用年齢	Applicable age
+敬称	title
+標語	slogan
+6落選者得票率	6 Lost vote rate
+国際化	Internationalization
+字幕	subtitles
+後政府	post-government
+2特能装備	2 special equipment
+année	année
+位置画像説明	position image description
+w杯出場回数	number of world cup appearances
+5番組名	5 program name
+最新版	Latest edition
+会場	venue
+副党首職名	Deputy Party Leader Title
+主君	lord
+大会名	Tournament name
+表面滑走路	surface runway
+概算信徒数	Approximate number of believers
+準州章	territorial emblem
+5節目調	5th knot tone
+経歴	Career
+民族語名称	Ethnic name
+党首氏名	party leader name
+州鳥	state bird
+都道府県旗の説明	Description of prefecture flags
+氏名	Full name
+ディレクtv閉局年	DirecTV closing year
+所属	Affiliation
+3pf名称	3pf name
+設計年	design year
+pf名称	pf name
+没地	death
+スタジアム	stadium
+全画面表示モード	Full screen mode
+特筆性	Notable
+開始	start
+主構造物	main structure
+長さ	length
+3前代	3 previous generation
+前回受賞者	previous winner
+コース長	Course length
+前作	previous work
+和名	Japanese name
+画像代替文	image alternative
+ダンス年	dance year
+ナット	nut

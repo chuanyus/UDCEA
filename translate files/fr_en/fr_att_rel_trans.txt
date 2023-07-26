@@ -1,0 +1,3903 @@
+itinéraire	itinerary
+tmin record date dec	tmin record date dec
+sol	sun
+format électronique	electronic format
+population rang	population rang
+ref	ref
+numero dans la collection	number in the collection
+conflit	conflict
+soleil mai	may sun
+règne	reign
+tmoy fev	tmoy feb
+ecusson	ecusson
+feb sun	feb sun
+postface	afterword
+date adoption	date adoption
+tmin record haut jul	tmin record high jul
+lien éditeur	publisher link
+jan	jan
+source principale altitude	main source altitude
+tri adresse	sorting address
+gentilé	nice
+direction actuelle	current direction
+hangul	hangul
+press haut nov	press today Nov
+derniers souverains	last rulers
+tmin record date ann	tmin record date ann
+colderselection	colderselection
+corresp	corresp
+aliment	food
+équipe affiliée	affiliate team
+tmax record avr	tmax record avr
+rtc	rtc
+prec haut date dec	prev top date dec
+gagnant plus large victoire	winner bigger win
+sièges sénat	senate seats
+tmin record mai	tmin record mai
+pluie record date jan	rain record date jan
+pos	pos
+code postal	code postal
+défaites	defeats
+nom de naissance	birth name
+autre nom	Other name
+localisation	localisation
+prec nbr bas mai	prec nbr bas mai
+contrôleurs	controllers
+image taille	picture size
+premier jeu affiché	first game shown
+tmax record bas mai	tmax record bass may
+soleil max date mar	sun max date tue
+titres amateurs	amateur titles
+may mean	may mean
+œuvre	work
+eurogamer	eurogamer
+pluie jour mm avr	rain day mm apr
+tmax haut jul	tmax skin jul
+siteatterrissage	siteatterrissage
+usine	factory
+neige record date ann	snow record date year
+vent oct	vent oct
+tmin record haut date nov	tmin record today date nov
+identité	identify
+orage jour oct	storm day oct
+format	format
+éditeur orig	original editor
+perdant plus large défaite	loser wider defeat
+fed cup	fed cup
+tmax record bas date sep	tmax record bas date sep
+géologie	geology
+etnies	ethnic groups
+tmin bas date ann	tmin low date ann
+press bas date jan	press bas date jan
+bundesrat	Federal Council
+victoireprolong	victoryprolong
+lien drapeau	flag link
+pibppa année	pibppa year
+vent record dec	vent record dec
+relégation	relegation
+conseiller du président	adviser to the president
+alttitre	alttitre
+evt	Possibly
+zip	zip
+prec haut ann	prec haut ann
+km fond	km fund
+participant	participant
+soleil min dec	sun min dec
+titres phares	flagship titles
+nombre albums	name albums
+medecin	doctor
+writing credits	writing credits
+dates	dates
+prec fev	prec fev
+pibhab année	pibhab year
+prec nbr bas fev	prec nbr bas fev
+dirigeants	leaders
+désignation	designation
+date single suiv	date single suiv
+président chambre fin	late chamber chair
+typologie	typology
+meta	meta
+prec bas mai	just like that
+date idh	date it
+iso btexte	iso btexte
+latin	latin
+liencirconscription	liencirconscription
+direction	direction
+publi	publi
+ieu	this
+gamespot	gamespot
+votes pré	pre votes
+date fin	end date
+glottolog	glottolog
+type formation	type formation
+commandement	commandment
+soleil max jui	sun max july
+aug precip mm	aug especially mm
+année draft amh	amh draft year
+fin de règne	end of reign
+buteur nom	scorer name
+tmax haut date ann	tmax skin date ann
+soleil min sep	sun min sep
+pluie record date avr	record rain date apr
+tmin record haut fev	tmin record high feb
+numéro chapitre	chapter number
+échelle secondaire	secondary scale
+inclinaison	inclination
+identifiant	identifier
+temps pole	pole time
+nbre imadas	number imadas
+soleil min date jui	sun min date july
+victoires amateurs	amateur victories
+piste précédente	previous track
+commis royal	commis royal
+pays origine	country of origin
+date élection	election date
+dnb	dnb
+tmoy ann	tmoy ann
+mouvements affiliés	affiliated movements
+hérétiques	heretics
+extensions	extensions
+tmin bas dec	tmin bas dec
+entraîneur chef	head coach
+carte historique	historical map
+vote	vote
+mosi	smoke
+nom sv	name please
+lien réalisateur	director link
+tmax record bas date ann	tmax record bas date ann
+slogan	slogan
+prêtres	priests
+genres	genres
+taille	cut
+province historique	historical province
+pays de résidence	country of residence
+soleil min date mar	sun min date tue
+score mi temps	score mi temps
+sep rec hi	I know there
+titre leadera	leader title
+mb	mb
+nomfrioulan	nomfrioulan
+élévation	elevation
+cin	eating
+nbind	nbind
+élision	elision
+perigee	perigee
+mandat voivode	mandate voivode
+nomgrec	nomgrec
+titre fr	title fr
+textcolor	textcolor
+personnalité	personality
+nom identifiant	identifier name
+college	college
+course	course
+mixage	mixing
+dob	dob
+none titre	no title
+3eplace	3eplace
+wimbledon simple	wimbledon simple
+taille carte	card size
+naissance	birth
+profession	profession
+couple	couple
+apr mean	apr mean
+fonction allumeur	ignition function
+oeuvre	work
+longueur	length
+mar precip days	mar precip days
+jan precip mm	especially mm
+biz	we
+cantonales premier nom	cantonal first name
+mar mean	mar mean
+press haut date oct	press skin date oct
+régionales premier tour	regional first round
+largeur tableau	table width
+last	last
+mandats	warrants
+leaderb date	leaderb date
+préfète	prefect
+prec bas oct	prec bas oct
+titre	title
+parties	parties
+pilote vainqueur	winning driver
+réservistes	reservists
+capitaine	captain
+pib rang	pib rang
+zurich	zurich
+périodique	periodic
+tmax haut date fev	tmax skin date fev
+descendance	descent
+cavert	cavert
+type gouvernement	government type
+none chelem	no helmet
+haut	high
+soleil min date oct	sun min date oct
+campus	campus
+tmax record date jul	tmax record date jul
+music	music
+adj	adj
+index europe	index europe
+aou	me
+gel jour jul	july frost
+nov hi	new hi
+volume	volume
+affi internationale	international poster
+rev score	rev score
+congressistes	delegates
+evt date	evt date
+nombre épreuves	number of proofs
+pattern socks	pattern socks
+leader	leader
+chapitre	chapter
+lancement	launch
+der titulaire	last holder
+club actuel	current club
+titresd	titresd
+taux de croissance démographique	population growth rate
+pluie oct	oct rain
+page début chapitre	chapter start page
+dénomination chef	chief denomination
+copilote	copilot
+pts	pts
+soleil record jui	record sun july
+groupe lié	related group
+coauteurs	co-authors
+lien villes	cities link
+nulsérie	null series
+stockage	storage
+minéral	mineral
+club	club
+tmax bas date aou	tmax low date Aug
+typage	typing
+gentilé langue	kindness language
+femmes atteignant	women reaching
+tmax record bas date nov	tmax record bas date nov
+leftarm	leftarm
+grêle jour mai	hail may day
+position	position
+leader opp sénat début	early senate opp leader
+gel jour dec	frost day dec
+population date	population date
+réalisateur	director
+dernier gp	last gp
+soleil record avr	sun record apr
+istat	state
+diffusion câble	broadcast cable
+décalage horaire	jet lag
+nationalite	nationality
+vo	in
+press jui	press jui
+pib par habitant	GDP per capita
+none attern so	none attern so
+zone	zone
+référendum oui	referendum yes
+shorts	shorts
+code naturel	code naturel
+prési assemblée	assembly chair
+montage	montage
+type subdivision	type subdivision
+pays lien subdivision	country link subdivision
+régions	regions
+enclave	enclave
+nyme	name
+assistant	assistant
+tmin haut avr	midday high apr
+branche cadette	cadet branch
+sieges	sieges
+neige record date dec	snow record date dec
+nom officiel	official name
+nb volumes	nb volumes
+meilleur marqueur	top scorer
+nom divers géo	miscellaneous name geo
+tmax jan	tmax jan
+comm	comm
+tmin record haut date jul	tmin record high date jul
+gimmick	gimmick
+icone	icons
+gpu	gpu
+type média	media type
+branches	branches
+press bas ann	press bas ann
+affiliation	affiliation
+origyear	origyear
+tmin record jul	tmin record jul
+endispute	undisputed
+nom pop	pop name
+date adhésion	date of accession
+neige record date mar	snow record date tue
+du pays	from the country
+ana	he
+mouvement	movement
+mission suivante	next mission
+code okato	code okato
+présentation en ligne	online presentation
+tmin haut nov	tmin today Nov
+votes	votes
+nb de visiteurs	number of visitors
+tmin haut mai	tmin haut mai
+press bas jui	press bas jui
+code vin	code vin
+current	current
+sources financières	financial sources
+mar sun	i call
+réalisation	achievement
+mccune	mccune
+année variation pop	pop variation year
+président arrondissement	borough president
+flotte	beautiful
+culte	worship
+pluie jour mm dec	rain day mm dec
+vent record sep	vent record sep
+tmax record date fev	tmax record date fev
+nbmarx	nbmarx
+tmin record haut date jan	tmin record high date jan
+tmin record jan	tmin record jan
+prec bas ann	prec bas ann
+années de production	years of production
+tmin record haut jui	tmin record high jun
+siren	siren
+indicatif radio	call sign
+durée mandat	term of office
+tmin record date sep	tmin record date sep
+distance proche	near distance
+nom cimetière	cemetery name
+press bas dec	press bas dec
+clot	clot
+catégorie	category
+tmax haut date nov	tmax today date Nov
+neige record date fev	snow record date feb
+yeux	eyes
+alt maxi	everything maxi
+soleil min oct	sun min oct
+num	on one
+press haut ann	press skin ann
+châssis	frame
+président sénat fin	late senate president
+date premier parc	first park date
+noires alpin	black alpine
+tmax record bas date aou	tmax record bas date aou
+chef de état	head of state
+taille signature	signature size
+fuseau horaire	time zone
+tmoy nov	tmoynov
+soleil min date avr	sun min date apr
+access date	access date
+dur	dur
+domicile	residence
+lieu auteur	place author
+press haut date aou	press top date august
+chef lieu	capital
+chanson	song
+titrejaponais	titrejaponais
+station	station
+vénéré par	revered by
+prec nbr haut date avr	prec high nbr date apr
+objets	objects
+nom polonais	polish name
+oldid	were old
+pluie record date sep	rain record date sep
+flop place	flop place
+collapsed	collapsed
+compté	account
+neige record fev	record snow feb
+wiktionnary titre	wiktionary title
+prec haut date jul	prec today date jul
+palmarès international	international awards
+date àjour	current date
+couleur	color
+type acte	act type
+consécration	consecration
+soleil nov	sun nov
+utc	utc
+width	width
+medicin	medicine
+date de départ	Date of departure
+construction	construction
+lanue	wool
+prec haut oct	prev high oct
+press haut dec	press today dec
+nb équipes	number of teams
+nul	bad
+préfet de police	prefect of police
+pattern	pattern
+codeprod	codeprod
+nblib	nblib
+sudoc	sudoc
+vertes alpin	alpine green
+carte powiats	carte counties
+pluieville	pluieville
+européennes second nom	European second name
+fleur	fleur
+pluie record aou	Record rain Aug
+neige record date avr	snow record date apr
+formation	formation
+nombre episodes	name episodes
+region	region
+lien titre ouvrage	book title link
+carte titre	title card
+orage jour ann	thunderstorm year
+tmin bas aou	tmin bas aou
+source principale latitude	main source latitude
+partie de	part of
+vent jui	wind june
+remplaçants	substitutes
+ribbon	ribbon
+nom cyrillique	Cyrillic name
+surface	surface
+iconeg	iconeg
+tmin record haut sep	tmin record high sep
+alias taille image	alias image size
+suffrages	votes
+voix	voice
+prec nbr haut sep	prec nbr haut sep
+artiste couverture	cover artist
+penjab	incumbent
+neige record jan	Jan record snow
+développeurs	developers
+matchs joués	matches played
+présidentielles royal	royal presidential
+wikibooks titre	wikibooks title
+sénateur	senator
+camarx	camarx
+saison suivante	next season
+roland garros simple	roland garros simple
+fonction lecteur serment	oath reader function
+lingua	language
+contexte	context
+numéro éditeur	publisher number
+voivode	voivode
+prec nbr bas oct	prec nbr bas oct
+légende bis	legend bis
+tmoy dec	tmoy dec
+aug rec lo	aug rec lo
+press bas date nov	press bas date nov
+anglais	English
+trajectoire	path
+union	union
+soleilville	soleilville
+nombre éditions	number of editions
+dessinateurs	designers
+édtieur	editor
+résultat buteur	scorer result
+pluie record date jul	rain record date jul
+pluie jour fev	rain day feb
+halloffame	halloffame
+écran	screen
+ministère	ministry
+tmin bas date jui	tmin bas date jui
+insee	insee
+none élec	none elect
+zh	zh
+vaisseau	vessel
+mar precip inch	especially inch
+état	state
+photographe	photographer
+sud est	South East
+tmax bas date jul	tmax bas date jul
+prec bas date jui	prec bas date jui
+destination	destination
+wikiversity titre	wikiversity titre
+première diffusion	first broadcast
+utilisation	use
+language	language
+religieuses	nuns
+découverte	discovery
+résultat préc	previous result
+tmax record bas oct	tmax record bas oct
+promu début	promoted early
+year lo	year it
+none partir du fonction	none from function
+halloffamelah	halloffamelah
+prec haut mai	prec haut mai
+énergie	energy
+km alpin	km alpine
+supercoupes	supercoupes
+lyrics	lyrics
+partis	gone
+premier titre	first title
+may precip days	may precip days
+mer	more
+jun mean	jun mean
+mitemps	mitemps
+font size	font size
+annéecarte	yearmap
+tmin record date jan	tmin record date jan
+usurpateur	usurper
+description image	description image
+saison en cours	current season
+titre color	titre color
+forte chaleur jour dec	very hot day dec
+soleil max oct	soleil max oct
+vent nbr fev	vent nbr fev
+aéroports	airports
+frequence	frequency
+dernière apparition	last appearance
+comarcas	counties
+institutions	institutions
+vent nbr avr	vent nbr avr
+to	to
+tmax aou	tmax aou
+orage jour jan	jan day thunderstorm
+press haut jul	press today jul
+sep mean	sep mean
+sites touristiques	tourist attractions
+chapterurl	chapterurl
+titre vice roi	viceroy title
+nomde	nomad
+valeur info	info value
+alias explications	alias explanations
+cir	cir
+groupe parlementaire	parliamentary group
+plénipotentiaire	plenipotentiary
+pages	pages
+nom du parlement	parliament name
+neige ann	snow
+comtés	counties
+autre numéro	other number
+référence simplifiée	simplified reference
+surtitre	surtitle
+score aller	score all
+présentation	presentation
+extérieur	outside
+cr	cr
+trama pantalón	weft pant
+bless	bless
+personnel enseignant	teaching staff
+stade	stadium
+jun rec lo	jun rec lo
+tri	three
+may hi	there is hi
+orage jour aou	thunderstorm august day
+district	district
+sud	south
+population division	population division
+entete président	president header
+phases finales	phases finales
+topic	topic
+personnes	people
+nb parc	nb parc
+collaborations	collaborations
+saison àvenir	upcoming season
+jour pluie avr	rainy day apr
+efeo	efeo
+date formation	date formation
+ko amateurs	that amateurs
+oral	oral
+production	production
+date autonomie	autonomy date
+tmin record haut date sep	tmin record high date sep
+actifs	assets
+écrit	writing
+navigation	navigation
+poj	poj
+prec jul	pre jul
+image blason	picture coat of arms
+extra	extra
+date de décès	date of death
+nombre de strahler	strahler name
+sièges exécutif	executive seats
+nom maori	maori name
+dernière élection	last election
+métro	subway
+sobriquet	sobriquet
+all music	all music
+origine	origin
+press ann	press ann
+société sœur	sister company
+armées	armies
+motif	motif
+titre article en italique	article title in italics
+passation	award
+présidentielles participation	presidential turnout
+none partir du	none from
+géolocalisatin	geolocation
+sansfusillade	sense fusillade
+époque	era
+capitale	capital
+entete siège	seat header
+featuring	featuring
+titre cardinalice	cardinal title
+couleur wiki	wiki color
+pluie record date dec	rain record date dec
+pluie record date ann	rain record date year
+body	body
+prec nbr bas date dec	prec nbr bas date dec
+légence imageloc	imageloc legend
+sous unité	subunit
+nom indonésien	indonesian name
+abréviations	abbreviations
+territoires	territories
+conti	accounts
+sénateurs pré	pre senators
+soleil sep	sun sep
+association logo	association logo
+matchs nuls	draws
+prec nbr bas dec	prec nbr bas dec
+champion constructeur	champion constructor
+nb suivante	next number
+soleil max nov	sun max nov
+orientation du moteur	motor orientation
+humidité avr	apr humidity
+pluie record jui	record rain july
+temps record	temp record
+no	no
+aux	to
+year	year
+décerné par	awarded by
+date dissipation	date dissipation
+tag	tag
+endémiques	endemic
+caind	caind
+nom de règne	reign name
+bayer flamsteed	bayer flamsteed
+prec oct	prec oct
+rémunération	remuneration
+year rec lo	year rec lo
+npy	npy
+configuration	configuration
+âge au décès	age at death
+dépôt légal	Legal Deposit
+soleil min jui	sun min ju
+tmax bas sep	tmax bas sep
+grêle jour jul	hail jul
+date plus large défaite	wider date defeat
+menacé	threatens
+légende générale	general legend
+nom transcription	name transcription
+familycolor	familycolor
+état du projet	project status
+ud	out
+couleurclaire	light color
+leaderd	leaderd
+coach	coach
+villes	cities
+complément	complement
+press bas aou	press bas aou
+développeur	developer
+resultats	results
+header	header
+largeur	lenght
+rangpop	rangpop
+temps record tour	temps record tour
+taille emblème	emblem size
+cabq	cabq
+tard	late
+datefond	date fund
+départements	departments
+archipel	archipelago
+fonc militaires	military function
+sélection	selection
+élections	elections
+oct rec hi	oct rec hi
+mise en service	commissioning
+seats title	seats title
+organisations internationales	International organisations
+sous genre	sub genre
+clt pib	clt pib
+marge interlignes	line spacing
+débit	debit
+équipe	crew
+touchpad	touchpad
+soleil min date mai	sun min date may
+pourcent	percent
+nom info divers	nom info divers
+libellé web	web label
+trama socks	trama socks
+jan mean	jan mean
+finnois	Finnish
+titre capitale	capital title
+date disparition	date of disappearance
+taille police	font size
+futurs	future
+arme	armed
+oiseaux	birds
+nom subdivision mère	parent subdivision name
+lieu naissance	Birth Place
+plan	plan
+dépositaire	depositary
+ncl url	ncl url
+unité	unity
+nom it	nom it
+pib ppa	pib ppa
+musique	music
+nombre de pays participants	number of participating countries
+secrétaire général	general secretary
+puissance	Powerful
+pluie record date oct	rain record date oct
+neige mai	neige mai
+miseenservice	miseenservice
+tribunes	tribunes
+soleil max date fev	soleil max date fev
+historique	historical
+tmax bas aou	tmax bas aou
+prec bas date ann	prec bas date ann
+revenu moyen	average income
+confédération	confederation
+heure été	summer time
+titre canadien	canadian title
+illustrateur	illustrator
+name	name
+fond	fond
+sièges	seats
+fonc laïques	secular function
+confluence longitude	confluence longitude
+fin diffusion	end of broadcast
+pluie record date mar	rain record date tue
+ft	ft
+auteur ouvrage	author of work
+year precip mm	year precip mm
+tmax record bas mar	tmax record bas mar
+day	day
+soleil record oct	soleil record oct
+numero	number
+abolition	abolition
+transmission	transmission
+titre volume	volume title
+pénalités	penalties
+date population	date population
+mar precip mm	mar precip mm
+tmax oct	tmax oct
+tmax avr	tmax avr
+pluie record ann	year record rain
+champion autre	champion other
+mammifères	mammals
+titre dirigeant	executive title
+fond perdant	losing bottom
+lien périodique	periodic link
+sépulture	burial
+podium	podium
+thèmes	themes
+docteur	doctor
+piste	track
+imhof	in the yard
+voie arrière	rear track
+groupes ethniques	ethnic groups
+index département	department index
+produit intérieur brut pib	gross domestic product gdp
+tmax record bas dec	tmax record bas dec
+année miss	miss year
+prec nov	pre Nov
+forte chaleur jour avr	very hot april day
+dessin	drawing
+eur	euro
+année visiteurs	year visitors
+soleil min avr	sun min apr
+légende sceau	legend seal
+position département	position department
+jul hi	hi christmas
+marque	Mark
+format livre	book size
+hymne	anthem
+dec rec hi	I must go there
+no ofs	no ofs
+poles	poles
+icprovince	icprovince
+img	img
+image logo	image logo
+ouvrage	work
+jul precip days	jul special days
+régionales second pourcentage	regional second percentage
+commons	commons
+patternso	patternso
+pays indépendance	independence country
+tmin record haut oct	tmin record skin oct
+link	link
+nbav	worry
+nombre de courses	name of courses
+concepteur	designer
+code iso	code iso
+meilleur classement uefa	best uefa ranking
+createurs	creators
+saint patron	patron saint
+lac	lac
+lecture	lecture
+pist	runway
+sous préfectures	sub prefectures
+directeur sportif	sports director
+neige record date mai	record snow date may
+années	years
+eau	water
+précédent lien	previous link
+candidates	candidates
+commission	commission
+icallireland	icallireland
+gel jour ann	frost day
+carrière amateur	amateur career
+communaute	community
+date décès	date of death
+site	site
+frontières	borders
+couleurfamille	colorfamily
+nomap	name
+tmax haut date jui	tmax top date jul
+climat	climate
+femmes	women
+par habitan	couple inhabit
+freq	freq
+nom en irlandais	name in Irish
+pluie an mar	rain in tuesday
+leader gouv chambre début	early house govt leader
+soleil max jul	sun max jul
+récomp civiles	civilian awards
+distinctions	distinctions
+nombre de grand chelems	number of grand slams
+date de béatification	date of beatification
+diagramme	diagram
+vent jan	Jan wind
+célèbre pour	famous for
+neige record sep	record snow sep
+index région	region index
+personnel académique	academic staff
+council area	council area
+titre ville	city ​​title
+exportations	exports
+direction précédente	previous direction
+écurie pole	pole stable
+soleil max date nov	soleil max date nov
+début en cm	start in cm
+hex fg	hex fg
+titre plus grande ville	greatest city title
+brouillard jour dec	fog day dec
+allign	allign
+président	President
+essaims	swarms
+jan rec hi	jan rec hi
+explications	explanations
+fond titres	securities background
+autres activités	other activites
+scénario	script
+proportion superficie	proportion superficie
+press haut mar	press today mar
+press haut oct	press skin oct
+mise àjour	update
+ministres	ministers
+recteur	rector
+tar	takes
+pibtotal	pibtotal
+cout extension	cout extension
+prec bas date dec	prec bas date dec
+orbite	orbit
+entete texte	entete texte
+pib date	pib date
+press bas jul	press bas jul
+nomslovène	Slovenian names
+évolution du ca	evolution of business
+vent nbr jui	vent nbr jui
+tmax haut date mai	tmax haut more data
+défaites ko	defeats ko
+couleur boîte	color box
+neige nov	snow Nov
+nombre communes	number towns
+va	and
+religion	religion
+couleurfondb	colorbackgroundb
+date de sortie	release date
+annéepréc	year ago
+humidité sep	humidity sep
+title	title
+fossile	fossil
+coupe nationale	national cup
+pluie an ann	rain year year
+création	creation
+traduction ouvrage	book translation
+statut entraineur	coach status
+espoirs	hopes
+humidité jui	June humidity
+numéro édition	edition number
+gel jour jan	jan day frost
+pibhabnom année	pibhabnom year
+tmin haut oct	tmin skin oct
+maillot	jersey
+électrifié	electrified
+prise de raquette	racket grip
+électrifiés	electrified
+destinations	destinations
+landtag	Parliament
+présidentielles sarkozy	presidential sarkozy
+débutlien	startlink
+role	role
+génitif	genitive
+mémoire vive	random access memory
+parti prédécesseur	predecessor party
+prec sep	prec sep
+président de la république	President of the Republic
+étiquette	label
+tmin oct	tmin oct
+éligibilité	eligibility
+prec nbr bas jul	prec nbr bas jul
+diplômés an	year graduates
+tmax nov	tmax nov
+largeur max	max width
+styleliste	styleliste
+bouclier	shield
+imageloc	imageloc
+ex membres	from members
+lccn	lccn
+alignement	alignment
+descr carte	map descr
+but	but
+contenu	contents
+re	re
+pluie jour oct	rain day oct
+passeur passe	passer pass
+neige jour aou	snow day august
+population notes	population notes
+prec nbr haut date jui	prec high nbr date june
+séries notables	notable series
+forte chaleur jour jan	very hot jan day
+caps	caps
+non	non
+mandant	client
+taille plan	size plan
+vainqueur coupe	cup winner
+tipo body	body type
+coauteur	co-author
+endettement net	net debt
+balouchistan	balouchistan
+date entrée vigueur règlement	date of entry into force of regulations
+pouvoirs	powers
+option	option
+cdmf	cdmf
+prenom	first name
+début de carrière	carrier start
+prec bas date nov	prec bas date nov
+isbn orig	isbn orig
+visiteur quart	quarter visitor
+tmax record date jui	tmax record date jui
+place	place
+press haut jui	press high ju
+langues de facto	de facto languages
+pluie record date fev	rain record date feb
+dénomination	denomination
+cat	cat
+libre	free
+masters	masters
+imagetxt	imagetxt
+nom	name
+affiliés	affiliates
+nom autre	other name
+tmax record mar	tmax record mar
+jusqu au fonction	up to function
+tmoy jul	tmoy jul
+pluie jui	rain june
+véhicule retour	return vehicle
+article	article
+press haut aou	press today
+écurie record	record stable
+plus grande ville	largest city
+apr hi	apr hi
+intersections	intersections
+taux admission	admission rate
+site atterrissage	landing site
+occupation actuelle	current occupation
+paragraphe	paragraph
+vent record ann	vent record ann
+alias image	alias image
+municipales second nom	second name municipalities
+texte noir	black text
+flop année	flop year
+numéro dans la collection	number in collection
+année modèle	model year
+dommages	damage
+tmax bas fev	tmax bas fev
+autres constr	other constructions
+postgraduate	postgraduate
+meilleur passeur	best passer
+paroisses	parishes
+soleil record nov	sun record nov
+patrón so	pattern so
+prec bas date mar	prec bas date mar
+saison précédente	previous season
+second color	second color
+soleil record jul	jul record sun
+image équipage	crew picture
+vicechancelier	vicechancelier
+personnages	characters
+annéé	Anne
+chômage	unemployment
+fichier	file
+étendue	extent
+feb precip mm	Feb precip mm
+téléski	ski lift
+sind	are
+titrekanji	titkanji
+jour pluie oct	rainy day oct
+clubnat	clubbed
+poème	poem
+imprimeur	printer
+meilleurs tours en course	fastest laps in the race
+dec rec lo	say rec lo
+champion du monde	world champion
+suédois	Swedish
+float	float
+rég	long ago
+soleil max date jan	sun max date jan
+source secondaire altitude	secondary source altitude
+nom japonais	japanese name
+iconed	iconed
+faits armes	made arms
+image	image
+valables	valid
+prec bas jan	prec bas jan
+noms membres assemblée	assembly member names
+soleil max date dec	soleil max date dec
+mandat exécutif	executive mandate
+débit notes	debit notes
+pluie jour jul	jul day rain
+oct rec lo	oct rec lo
+coupe ligue	league cup
+tmin bas fev	tmin bas fev
+grenoble	grenoble
+prec haut aou	prev high aug
+législatives premier nom	legislative first name
+titelderdeshirt	title third shirt
+prec bas dec	prec bas dec
+maire délégué	deputy mayor
+tmin record haut dec	tmin record high dec
+pibhabitant	pibhabitant
+team	team
+photo	photo
+légende équipage	legend crew
+none max	none max
+prec bas date aou	prev low date aug
+gel jour aou	frost day august
+nbvert	nbvert
+neige jour jui	june day snow
+jun precip days	June precip days
+tmin record haut date avr	tmin record high date apr
+suivant femme	next woman
+joueuse	player
+gouverneur	governor
+press bas date oct	press bas date oct
+tmax haut dec	tmax high dec
+humidité mai	May humidity
+sélectionneur	coach
+nov precip days	nov precip days
+top année	best year
+nb hotel	nb hotel
+ligne séparatrice	dividing line
+définition	definition
+press haut date nov	press today date nov
+score premier match	score premier match
+tmax record jan	tmax record jan
+nombre épreuves masculines	number of men's events
+condition vigueur	vigor
+débit lieu	debit place
+source secondaire localisation	secondary source location
+pays de naissance	native country
+dépendances	Dependencies
+auteur institutionnel	institutional author
+en ligne le	online on
+nom sitem	website name
+municipales premier pourcentage	municipal first percentage
+origine longitude	origin length
+étoiles visibles àl œil nu	stars visible to the naked eye
+groupes reliés	related groups
+annéem	another year
+prec bas date jan	prec bas date jan
+code cadastre	code register
+url effectif	effective url
+ministre état	state minister
+tournée précédente	previous tour
+nom et logo	name and logo
+classe	class
+cantonales second pourcentage	cantonal second percentage
+source secondaire longitude	longitude secondary source
+site prof	site prof
+seats	seats
+band	band
+riverséditeur	riverseditor
+bateau	boat
+canonisé par	canonized by
+colonne extra	extra columns
+nomes	names
+fuseau	spindle
+thinning	thinning
+nbno	nbno
+nlc url	nlc url
+col	col
+dernière version	last version
+devise de la ville	city ​​motto
+siteweb	website
+densite	density
+année autonomie	year autonomy
+olympiade	Olympics
+normes	standards
+soleil min date jul	sun min date jul
+membres actuels	current members
+mar rec lo	sea ​​rec lo
+orage jour mar	storm day tuesday
+président du gouvernement	president of the government
+autres langues	other languages
+tmin bas jan	tmin bas jan
+picto	I paint
+chef opp chambre fin	chief opp bedroom end
+hymne national	National anthem
+pattern bl	pattern bl
+fin	end
+président du conseil	President of the council
+kinésithérapeutes	physiotherapists
+lbs	lbs
+prec nbr haut jui	prec nbr high ju
+lignes	lines
+pib habnom	start habnom
+chanson précédente	previous song
+nbrhi	nbrhi
+prec nbr bas jui	prec nbr bas jui
+dictature	dictatorship
+organisateur	organizer
+notice	notice
+lieu	venue
+caplc	caplc
+press sep	press sep
+tmax dec	tmax dec
+effectif	effective
+date de fondation	founding date
+enfants	children
+date de création	creation date
+titre leaderc	titre leaderc
+olympique	Olympic
+ornements	ornaments
+parlée	Spoken
+none promu	none promoted
+authormask	authormask
+equipement	equipment
+codemuni	codemon
+vent nbr jul	vent nbr jul
+dec	dec
+tmax haut ann	t max haut ann
+légende insigne	legend badge
+chômage année	unemployment year
+activités autres	other activities
+logo taille	logo size
+meilleur buteur	best striker
+id	id
+physique	physique
+vent nbr sep	vent nbr sep
+langue nom	language name
+circonscription	riding
+tmax haut date avr	tmax high date apr
+équipage	crew
+entraineur	coach
+zbl	zbl
+nompiémontais	Piedmontese name
+assemblée groupe	group assembly
+jul precip inch	jul precip inch
+palmarès	track record
+jour pluie jui	rainy day june
+sorti	got out
+tmax record bas date fev	tmax record bas date fev
+concessionnaire	dealer
+vent nbr oct	vent nbr oct
+press bas mai	press bas mai
+redcards	redcards
+score plus large défaite	wider score defeat
+nb semaine	nb week
+apparentés	related
+grêle jour nov	hail day nov
+vent record fev	vent record fev
+sièges communes	common seats
+finale	finale
+nbca	nbc
+voie	way
+blasontaille	blasontaille
+date mise àjour	date updated
+est	is
+chanson suivante	next song
+disparition	disappearance
+prec haut date ann	prev top date ann
+soleil max date mai	sun max date may
+single suivant	next single
+unlc	unlc
+tmax record date avr	tmax record date avr
+soleil jui	sun june
+noms précédents	previous names
+choix draft lnh	nhl draft pick
+localité	locality
+traduction titre	translation title
+titre périodique	periodic title
+travaux	works
+fonction ministre	minister function
+pret	against
+vent record nov	vent record nov
+dec precip days	dec precip days
+pluie jour mm jui	rain day mm ju
+footer	footer
+geldig	valid
+adjoint	deputy
+coul serie	series neck
+coin	coin
+couleur écriture	writing color
+grêle jour oct	hail day oct
+réimpression	reprint
+titre siège	seat title
+lieu éditeur	publisher place
+brouillard jour avr	fog day apr
+prec bas date avr	prec bas date avr
+crédits écriture	writing credits
+tmin record haut nov	tmin record today Nov
+langueofficielle	official language
+municipales lien figaro	municipal figaro link
+brouillard jour oct	fog day oct
+dc	dc
+personne clé	key person
+temps	time
+titre corresp	corresponding title
+nombre de voies act	number of current channels
+feb hi	feb hi
+auteurs	authors
+divers	divers
+tmax haut date oct	tmax skin date oct
+alias blasonnement	alias blazon
+action	action
+branches cadettes	cadet branches
+genre	genre
+dateparution orig	dateparution orig
+titre du ministre	Minister's title
+producteur	producer
+deuxième et troisième cycle	second and third cycle
+unesco	unesco
+pluie jour mm oct	rain day mm oct
+âge	age
+tmax bas mar	tmax bas mar
+ligue ent	ent league
+diffuseur	Streamer
+plus titrés	more titled
+tmin record haut date oct	tmin record skin date oct
+date de mise àjour	update date
+affluence record	affluence record
+pluie sep	rain sep
+vent nov	wind nov
+ae	but
+lien région	region link
+feb mean	feb mean
+championnat pilote	driver championship
+date plus large victoire	wider victory date
+tmin aou	tmin aou
+batailles	battles
+taille du logo	logo size
+fondée	founded
+couleurtextet	colortextet
+jour pluie dec	rainy day dec
+votants	voters
+numéro et écurie	number and stable
+nom divers démographie	various name demography
+siège ville	city ​​seat
+prec nbr bas date ann	prec nbr bas date ann
+prec haut nov	before today nov
+sitelancement	sitelancement
+élection	election
+temps total vainqueur	total winning time
+ministre président	minister president
+none min	none min
+publicité	advertising
+fr	fr
+canons	cannons
+titre image	picture title
+align	align
+enregistrés	registered
+adherents	adherents
+galerie web	gallery web
+commandes	orders
+autre titre	other title
+main event	main event
+leader gouv sénat début	early senate govt leader
+dateparution	dateparution
+télévision	television
+ratio	ratio
+début	beginning
+type langues	type languages
+légende emblème	legend emblem
+finales perdues double	double lost finals
+carte taille	card size
+cname	cname
+année première édition	year first edition
+editor link	editor link
+pluie avr	rain apr
+conseil national	National council
+nbre délégations	number of delegations
+agence mère	parent agency
+aug mean	aug mean
+weblabel	weblabel
+pib	start
+mémoire	memory
+nomcommunebis	nomcommunebis
+pib habitant	they live in poverty
+humidité oct	oct humidity
+lb	lb
+soleil max jan	sun max jan
+arbitres aller	referees go
+massif	massive
+photo hq	photo hq
+neige jour dec	snow day dec
+press avr	press avr
+apr precip mm	apr precip mm
+environnements	environments
+extrémité intersection	intersection end
+temps total	total time
+coul fond	coul fond
+attributs	attributes
+activités	activities
+enroulée	rolled up
+désistement	disclaimer
+tmin bas jul	tmin bas Christmas
+saison	season
+jun	jun
+secteurs activités	sectors activities
+honneurs	honors
+tmin bas date mai	tmin low date may
+jan sun	I'm calling
+consultté le	consulted on
+résolution	resolution
+writer	writer
+titre vo	title
+fontsize	fontsize
+sœurs	sisters
+auteur compositeur	songwriter
+prononciation	pronunciation
+source longitude	source longitude
+orage jour dec	storm day dec
+prec nbr haut date ann	prec top nbr date ann
+prec nbr haut dec	prec nbr haut dec
+filiales	subsidiaries
+relief	relief
+taille drapeau	flag size
+code isq	code isq
+vent record oct	vent record oct
+tmin haut date oct	tmin skin date oct
+confluence latitude	confluence latitude
+tmin jul	tmin Christmas
+diffusion satellite	diffusion satellite
+légende imageloc	caption imageloc
+préfecture	prefecture
+latitude septentrionale	northern latitude
+resultatenhuidig	results current
+tmoy jan	tmoy jan
+orientation	orientation
+jour	day
+départ	departure
+tmin bas nov	tmin bas nov
+chanson gagnante	winning song
+datetot	date dead
+maison de disques	record company
+rang pib	rang pib
+vf lien	vf link
+dernier souverain	last ruler
+fondateurs	founders
+pluie dec	Dec rain
+nb employés	number of employees
+positionnement	positioning
+cause du décès	cause of death
+fusion de	merger of
+exploitants	operators
+tout paroles	all lyrics
+public	public
+enregistré	checked in
+titre chef	chief title
+centre	centre
+may rec hi	may rec hi
+tmin record haut mar	tmin record haut mar
+neige jour mar	snow day tuesday
+ad	ad
+remarque	remark
+tmax record bas date jui	tmax record bas date jui
+tmin record aou	tmin record aou
+prologue	prologue
+motif bg	motif bg
+contrôle	control
+espace disque	disk space
+franchise	franchise
+fitness et alimentation	fitness and diet
+système de vote	voting system
+brouillard jour aou	fog day august
+feb precip days	feb precip days
+cylindrée	displacement
+leader gouv sénat fin	late senate govt leader
+nomlocuteurs	namespeakers
+nord	north
+suivant lien	next link
+soleil max date oct	soleil max date oct
+nom nl	nl name
+points sélection	points selection
+système de freinage	braking system
+étoile la plus proche	nearest star
+population	population
+ppa	ppa
+services	services
+bc	bc
+date de signature	signature Date
+tenant	tenant
+organisation	organisation
+nationalité	nationality
+rivières	rivers
+tmax record bas jan	tmax record bas jan
+année pop division	year pop division
+tmax bas dec	tmax bas dec
+tmax record bas date avr	tmax record bas date avr
+ligne	line
+joueuses	players
+nombre de powiats	nombre de counties
+date publication jo	date publication jo
+nb virages	number of turns
+tableau	picture
+dub	dub
+brouillard jour mar	fog day tues
+tmin bas date nov	tmin base date nov
+nom anglais	english name
+may precip mm	may precip mm
+début carrière ent	career start ent
+colonnesup	colonnesup
+url texte	url text
+leaderd date	leaderd date
+sujet	topic
+statcan	statcan
+colonne plate forme	platform column
+date single suivant	next single date
+nbreeva	nbreeva
+wiktionary titre	wiktionary titre
+nom de la tournée	tour name
+ppv précédent	previous pvp
+prec nbr bas mar	prec nbr bas mar
+sbn	sbn
+partiap	partiap
+critique	critique
+tmax haut nov	tmax today Nov
+forte chaleur jour jul	intense heat jul day
+numéro	number
+soleil jan	jan sun
+structure	structure
+nbbq	nbbq
+press haut date dec	press today date dec
+joueurs	players
+bg	bg
+bleues alpin	alpine blue
+neige jour ann	year snow day
+humidité fev	humidity fev
+activité principale	primary activity
+tmax record date nov	tmax record date nov
+tmax record bas fev	tmax record bas fev
+influence	influence
+humidité aou	August humidity
+annéebud	yearbud
+gp disputés	disputed gp
+prec nbr haut avr	prec nbr haut avr
+collections	collections
+embouchure localisation	mouthpiece location
+libellé libre	free wording
+sep precip inch	sep precip inch
+écurie record tour	record lap team
+ressources	resources
+tirs au but	shoot to the net
+papillon	papillon
+nombre record de points	record number of points
+signalisation	signage
+prec nbr haut date mai	prec nbr haut more dates
+wikivoyage titre	wikivoyage title
+consulté le	consulted the
+subdivision	subdivision
+norme puissance	norm power
+abréviation	abbreviation
+épouse	spouse
+colderadversaire	colderadversaire
+nom titre	name title
+prec dec	prec dec
+svg background color	svg background color
+prec nbr bas date mai	prec nbr bas more dates
+meilleur tour	best lap
+type coord	type coord
+orage jour sep	storm day sep
+prec haut sep	prev high sep
+pibnomhab année	pibnomhab year
+neige record aou	Record snow Aug
+soleil record aou	august record sun
+provinces	provinces
+pluie an mai	rain in may
+daïras	happening
+depuis	from
+résultat coupe europe	european cup result
+source altitude	source altitude
+socks	socks
+singles	singles
+bnf	bnf
+perdant plus large victoire	loser bigger win
+plus large victoire	biggest win
+album précédent	previous album
+cantonales participation	cantonal participation
+source principale longitude	main source longitude
+vent sep	sep wind
+numero celex	number celex
+tmoy aou	tmoy aou
+poste	afterwards
+prec nbr bas date jan	prec nbr bas date jan
+pibppa rang	pibppa rang
+forte chaleur jour fev	strong heat day feb
+taille logo	logo size
+tempseva	tempseva
+personnage vert	green character
+victoires ko	wins ko
+année première impression	year first printing
+diagramme titre	title diagram
+designer en chef	design a boss
+archevêque	archbishop
+cinématographie	cinematography
+neige record avr	record snow apr
+caractéristique	characteristic
+soleil avr	sun apr
+tivre vo	tivre vo
+titre pays	country title
+hommes	men
+sous titre ouvrage	subtitle book
+fonds propres	equity
+spectateurs	spectators
+jour pluie jan	rainy day jan
+partie	part
+tmoy jui	tmoy jui
+prec nbr haut date dec	prec nbr haut date dec
+morceau suivant	next song
+tmin record haut date fev	tmin record high date feb
+géoloc département	geoloc department
+tmin bas date avr	low date apr
+équipe nationale	National team
+vent nbr nov	vent nbr nov
+nov rec hi	nov rec hi
+universités	universities
+press haut date ann	press skin date ann
+carte graphique	Graphic card
+nombre orbites	number orbits
+préfecture de département	department prefecture
+entête	on your mind
+ind	in
+episodenuméro	episode number
+iso brut	big brut
+nov	nov
+classement	ranking
+soleil max date avr	soleil max date avr
+assistants capitaine	assistant captain
+tmin bas sep	tmin bas sep
+wikiquote	wikiquote
+père	dad
+affi européenne	european poster
+brouillard jour jan	jan day fog
+caméra	camera
+may sun	may sun
+titre du commandant en chef	title of Commander-in-Chief
+date mort au combat	date killed in action
+orage jour nov	storm day nov
+debut	debut
+échelle principale	main scale
+nov rec lo	nov rec lo
+tmoy mai	tmoy mai
+référendum non	referendum no
+hyperliens années	hyperlinks years
+pluie jour mm sep	rain day mm sep
+oct precip mm	oct precip mm
+anciens noms	old names
+soleil record fev	soleil record fev
+fidélité	loyalty
+code téléphonique	telephone code
+wilaya	district
+date du premier jeu	first game date
+sep precip mm	sep precip mm
+oct mean	oct mean
+date précédente	previous date
+jour de parution	publication day
+coupe portugal	cup portugal
+article détaillé	detailed article
+trad	trad
+lieutenant gouverneur	lieutenant governor
+soleil max avr	sun max apr
+etall	etall
+sous genres	sub genres
+nom complet	Full Name
+public cible	target audience
+couleur infobox	infobox color
+site web	site web
+date de mort	date of death
+tmax record date aou	tmax record date aou
+tmin haut date aou	tmin high date aug
+sanséquipe	teamless
+largeur totale	total width
+feb rec hi	feb rec hi
+grêle jour mar	hail day tuesday
+électeurs	voters
+tmin record haut aou	tmin record high Aug
+cand	When
+tmin haut date sep	tmin high date sep
+parti coalition	parti coalition
+plus titré	more titled
+bassin	bowl
+jan rec lo	jan rec lo
+tmin haut date nov	tmin today date nov
+nom rm	nom rm
+pluie jour mm mai	rain day mm may
+intitulé subdivision	titled subdivision
+logo resort	logo resort
+habitant	inhabitant
+abrogation	abrogation
+assemblée locale	local assembly
+buteur buts	goal scorer
+entete siègecommission	head office commission
+jul precip mm	jul especially mm
+branche	industry
+légende	legend
+type chambre	room type
+comté poste	county post
+plume	plume
+jourte	day
+nomlocal	nomlocal
+médecin	doctor
+nomregion historique	historical region name
+arbre	tree
+édition	editing
+pibv année	gdp year
+collaspe	collapses
+physiothérapeute	physiotherapist
+pays de la marque	brand country
+dernier jeu en date	latest game
+tmin haut date ann	tmin haut date ann
+matchs nuls amateurs	amateur draws
+tmin jui	tmin jui
+vq lien	vq lien
+footer align	footer align
+bordure	border
+tmin record avr	tmin record avr
+indicatiftel	indicatiftel
+pluie jour mai	rain day may
+editor nom	editor name
+index canton	index canton
+plates formes possibles	possible platforms
+comté	county
+combats	combats
+nombre îles	number islands
+index commune	index commune
+genres dérivés	derived genres
+pluie jour mar	rain day tues
+soleil jul	sun jul
+temples	temples
+prépublication	preprint
+meilleur buteur sur une saison	top scorer in a season
+tmax bas date sep	tmax bas date sep
+vent record aou	record wind august
+population fond	population fond
+député	deputy
+conflits	Conflicts
+sans décision	without decision
+prec haut date fev	prev top date feb
+gestionnaire	administrator
+particularités	peculiarities
+matchs points	matches points
+fermeture	closing
+date indépendance	independence day
+blessés	wounded
+prec nbr bas ann	prec nbr bas ann
+tmax record jul	tmax record jul
+pluie jour mm mar	rain day mm tue
+cg	cg
+premier vol	premier vol
+affaires courantes	Current affairs
+siège pays	country headquarters
+alignt	alignt
+titre orig	original title
+embouchure altitude	mouth elevation
+pibhab rang	pibhab rang
+carburant	fuel
+latest	latest
+communes fusionnees	merged municipalities
+sélectionneur adjoint	assistant coach
+attrape	caught
+prec nbr haut date fev	prec nbr haut date fev
+prec nbr haut date mar	prev high nbr date Tue
+perdant premier match	first game loser
+pourcents pnb	GNP percent
+tmax bas date jan	tmax bas date jan
+prec haut date jui	prev top date jun
+continent	continent
+gare précédente	previous station
+revers	setback
+press haut date mar	press today date mar
+plantes	plants
+nbnpd	nbnpd
+côtes	ribs
+info divers	info divers
+championnat constructeur	constructor championship
+rapport	report
+périgée	perigee
+orage jour fev	storm day feb
+alternative	alternative
+garnison	garrison
+poids	weight
+altname	altname
+éditions	editions
+dec mean	dec mean
+top	top
+clip	clip
+personnel	personnel
+anne	anne
+nomav	nomav
+jan hi	jan hi
+us open simple	us open simple
+nb series	nb series
+wikivoyage	Ukraine
+nord est	northeast
+proches	relatives
+nom site	website name
+gains en tournois	tournament winnings
+titre tome	volume title
+carrosseries	bodywork
+maîtres	masters
+nom pop division	nom pop division
+entraîneurs associés	associate coaches
+nb	nb
+jul rec lo	jul rec lo
+nom russe	russian name
+parti précédent	previous party
+description	description
+diagramme chambre	bedroom diagram
+date premier match officiel	first official match date
+ons	we
+conjoint	joint
+soleil record ann	sun record year
+relégué fin	relegated end
+soleil min jul	soleil my Christmas
+press bas jan	press bas jan
+abrv	abrv
+series	series
+cover	cover
+editeur	editor
+co titulaire	co holder
+nb précédente	previous number
+suspension arrière	rear suspension
+avr	avr
+open australie double	open australie double
+premier	premier
+pistee	point
+prov	prov
+codecomm	codecomm
+lieu de naissance	Place of birth
+leadera	leadera
+vent record mar	vent record sea
+wikispecies	wikispecies
+gares	stations
+commissaire	commissioner
+couleur nom	color name
+rd team	rd team
+directeur thèse	thesis supervisor
+sup contenu	extra content
+soleil min date sep	sun min date sep
+sénateurs	senators
+soleil oct	sun october
+liau	liau
+nov mean	I mean
+audience	audience
+fonction	function
+moteurs	engines
+brouillard jour jul	jul day fog
+signe pourcent	percent sign
+nom local	local name
+page	page
+ancien nom	former name
+vice roi	vice roy
+prec nbr haut date jan	prec high nbr date jan
+accessdate	accessdate
+fréquence	frequency
+mise en ligne	on-line
+média numérique	digital media
+neige record mar	Tue record snow
+seuil	threshold
+championnat actuel	current championship
+spalten	columns
+écurie vainqueur	winning team
+pib année	gdp year
+langues	languages
+carhi	carhi
+rang	rang
+actuel	current
+pluie record date jui	record rain date june
+worldcatid	worldcatid
+régent	regent
+titre autorité	authority title
+brouillardville	misttown
+neige record date oct	snow record date oct
+vent record mai	vent record mai
+chaîne sœur	sister channel
+rang femme	female rank
+pluie an jan	rain year jan
+année origine	year of origin
+gel jour fev	frost day feb
+forte chaleur jour oct	high heat day oct
+tmax bas jan	tmax bas jan
+tmax bas date dec	tmax bas date dec
+pluie record oct	oct record rain
+st patron	st patron
+dotation	endowment
+architecte	architect
+géoloc pays	country geoloc
+bp	bp
+prec haut date aou	prev top date Aug
+européennes premier pourcentage	european first percentage
+ascendants	ascendants
+grades	grades
+evolène	evolene
+president	president
+depuis le fonction	from the function
+align left	align left
+pas grille secondaire	no secondary grid
+oct sun	oct sun
+académie	academy
+sièges parti landtag	sieges parti parliament
+match	match
+largeur équipes	team width
+tmax haut jui	tmax high july
+lien titre	title link
+index circonscription	constituency index
+jul mean	jul mean
+prec haut avr	pre high apr
+press mai	press mai
+vent record avr	vent record avr
+coffre vda	vda trunk
+mar	mar
+prec nbr bas jan	prec nbr bas jan
+source secondaire	secondary source
+wikibooks	wikibooks
+revue	revue
+jour pluie mar	rainy day tue
+pluie jour mm nov	rain day mm nov
+qualificatif date	qualifier date
+commons titre	commons title
+chanté par	sung by
+début du projet	beginning of the project
+source confluence altitude	source confluence altitude
+oct	oct
+dernière version avancée	latest advanced version
+pluie jour mm fev	rain day mm feb
+imdb	imdb
+tmin nov	tmin nov
+spécialité	speciality
+début construction	start construction
+résultat nouv	new result
+source localisation	source localisation
+press haut fev	press today Feb
+pluie jour mm ann	rain day mm ann
+tmax bas nov	tmax bas nov
+leaderb	leaderb
+voàlume	voàlume
+étoiles proches	nearby stars
+score tab	score tab
+tmin haut aou	late afternoon high Aug
+représentant état	state representative
+tmax haut fev	tmax skin fev
+année en cours	current year
+longitude	longitude
+bgcolor	bgcolor
+numéro en club	club number
+pluie jour mm aou	rain day mm aug
+paroles credits	lyrics credits
+date album préc	previous album date
+td	td
+motif bd	motif bd
+mandat cg	commands cg
+unicode	unicode
+marge	marge
+nombre	Name
+université	university
+studio	studio
+couleurcentre	centercolor
+none drapeau	none flag
+société	society
+tmin haut date fev	tmin top date feb
+autre	other
+version actuelle	current version
+traducteur	translator
+humidité jan	Jan humidity
+dirigeant	leader
+headline	headline
+profession solennelle	solemn profession
+tmax haut date jul	tmax skin date jul
+danger	danger
+vent nbr mar	vent nbr mar
+gel jour jui	july day frost
+pluie an jul	rain year jul
+neige jour jan	jan day snow
+produits	products
+style de boxe	boxing style
+vent nbr aou	vent nbr aou
+logo légende	legend logo
+dec lo	dec
+béatifié par	beatified by
+prec nbr bas date fev	prec nbr bas date fev
+nombre de disciplines	name of disciplines
+altitude	altitude
+nov precip inch	new precip inch
+ol	ol
+soleil ann	sun an
+gel jour nov	on Nov
+ins	ins
+édition révisée	revised edition
+livre	book
+européennes premier tour	European first round
+homologation	homologation
+durée station	station duration
+tmin record jui	tmin record july
+meilleur classement jo	best jo ranking
+partiav	partiav
+élison	elison
+visiteur total	total visitor
+pop catho	pop catho
+période orbitale	orbital period
+taux	rate
+pluie record fev	record rain feb
+tmax bas jul	tmax bas jul
+implémentations	implementations
+doctorants	doctoral students
+européennes second pourcentage	European second percentage
+longitude orientale	east longitude
+vent dec	vent dec
+aptes	fit
+nomlb	name
+date admission	date admission
+statut localité	locality status
+dec sun	dec sun
+sport	sport
+editor first	editor first
+nom espagnol	spanish name
+leadera date	leadera date
+calis url	hot url
+tmax record ann	tmax record ann
+sièges landtag	victorious parliament
+squadname	squadname
+datepib	datepib
+rôle	role
+pratiquants	practitioners
+forte chaleur jour aou	strong heat august day
+famitsu	famitsu
+règneav	reigned
+langue de facto	actually languish
+apr precip inch	apr precip inch
+années activité	years of activity
+palmarès national	national award
+arrondissement	borough
+mandat	mandate
+tmin record date jui	tmin record date jui
+précédent texte	previous text
+tmax bas date jui	tmax bas date jui
+charte couleur	color chart
+couleur ligne	line color
+confluence altitude	confluence altitude
+score retour mi temps	half time return score
+jour pluie fev	rainy day feb
+choix draft amh	draft pick amh
+découvreur	discoverer
+profession autre	other occupation
+année draft khl	khl draft year
+salinité	salinity
+code pays	code pays
+lieu de réunion	meeting place
+editor last	editor last
+compétition continentale	continental competition
+créateurs	creators
+rev	rev
+bordures	borders
+équipe ent	ent team
+press haut sep	press today sep
+superficie notes	surface notes
+apr sun	apr sun
+arbitre	arbitrator
+jul sun	jul am
+bras gauche	left arm
+répartition ethnique	ethnic breakdown
+caption	caption
+activité année	activity year
+nomofficiel	nomofficiel
+vq	vq
+diffusion adsl	diffusion adsl
+nom dirigeant	ruler name
+cout construction	cout construction
+législatives second parti	second party legislative
+titre original	original title
+abréviation postale	postal abbreviation
+sceau	seal
+mandat chef	chief mandate
+licenciés	dismissed
+neige jour nov	snow day nov
+résultat championnat	championship result
+superficie eau	water surface
+lieur	dizzy
+shorst	shorst
+officielle	official
+drapeau	flag
+cartons	cartons
+fondé en	founded in
+fin carrière	end of career
+points club	points club
+tmin bas mar	tmin bas mar
+oct precip days	oct precip days
+effectifs	workforce
+aide	aide
+fin de carrière	end of career
+victoires décision	wins decision
+enseignants	teachers
+tmin avr	tmin avr
+système exploitation	operating system
+metric first	metric first
+aita	father
+date single préc	date prev single
+sur	on
+online	online
+humidité nov	November humidity
+mls	mls
+préfacier	preface
+tournoi	tournament
+accélération	acceleration
+club entraîneur	coach club
+troisième cycle	Third cycle
+aug sun	aug sun
+clt superficie	clt surface
+mort	dead
+prec haut date nov	prec today date nov
+prec nbr haut date aou	prec high nbr date Aug
+meilleur résultat cc	best cc result
+communes cp	communes cp
+monarque	monarch
+mandatm	mandate
+rd seed	rd seed
+neige record dec	record snow dec
+ouest	west
+simuni	simuni
+isb	isb
+intercommun	intercommun
+type indépendance	independence type
+gamekult	gamekult
+style	style
+style entête	header style
+forte chaleur jour ann	very hot day
+début constr	start construction
+conseil des états	council of states
+scènes régionales	regional scenes
+nom alias	name alias
+fondateur	founder
+nom alternatif	alternative name
+pluit ann	it rains
+dimensions	dimensions
+press bas date jul	press bas date jul
+nbpcc	nbpcc
+vols	vols
+fuseaux horaires	time zones
+chefs croisés	crusader heads
+prec haut dec	prev high dec
+population capitale	population capitale
+nb épisodes	number of episodes
+date création	Creation Date
+unused data	unused data
+ancêtres	ancestors
+brisé le	broke it
+fips	fips
+numéro morceau préc	previous track number
+numéro piste préc	previous track number
+origines culturelles	cultural origins
+statut professionnel	professional status
+neige mar	snow tue
+date suivante	next date
+langue originale	original language
+year precip inch	year precip inch
+tmin record haut date jui	tmin record high date jul
+prec mai	price more
+dénominations	denominations
+commandant	commandant
+mar rec hi	sea ​​rec there
+écartement	gauge
+municipales second pourcentage	municipal second percentage
+auter	either
+dimensions et poids	dimensions and weight
+membres	members
+tmin record date mar	tmin record date mar
+tmoy sep	tmoy sep
+mandat landtag	mandate parliament
+européennes participation	European participation
+classement elo	rating
+vitesse	speed
+scale	scale
+siege	siege
+sièges pré	pre seats
+intitulé région	titled region
+wiktionnary	wiktionnary
+lien titre sschef	sschef title link
+hab	method
+longueur du circuit km	circuit length km
+nations	nations
+site de lancement	launch site
+autres titres francophones	other French titles
+heure	hour
+modèle	model
+coût unitaire	unit cost
+origlatin	origlatin
+mar lo	sea ​​what
+durée	duration
+date du dernier jeu en date	date of latest game
+capitalisation boursière	market capitalization
+goals	goals
+oct hi	oct hi
+gameblog	gameblog
+prec bas nov	just before Nov
+après	after
+supérieure	superior
+credits paroles	credits lyrics
+titre article	article title
+nomm	name
+auteurs ouvrage	authors book
+objectifs	Goals
+influences	influences
+box office	box office
+ordre	order
+mandat chief minister	mandate chief minister
+nom resort	resort name
+instruments	instruments
+équipement sportif	sport equipment
+directeurl	manager
+other device	other device
+authorlink	authorlink
+auetur	he will die
+ethnicité	ethnicity
+sigle	acronyms
+statut joueur	player status
+soleil record mai	May record sun
+déployés	deployed
+titre autre	other title
+zone telephonique	zone telephonique
+exploitant	operator
+températures	temperatures
+canpd	canpd
+langue du titre	title language
+sansdéfaiteprolong	undefeated extended
+premièrediffusion	premiere
+pluie record jul	record rain jul
+soleil max date jui	sun max date june
+soleil min date dec	sun min date dec
+saison entraîneur	coach season
+fam	fam
+législature	legislature
+code iata	code here
+rd score	rd score
+cantonales second nom	cantonal second name
+date single précédent	previous single date
+tmin record date nov	tmin record date nov
+ouvert	open
+scission de	split from
+source confluence latitude	source confluence latitude
+dialectes	dialects
+résultat net	net profit
+meilleur réalisateur	best director
+lien subdivision	lien subdivision
+saison entraineur	coaching season
+prec bas date sep	prec bas date sep
+author	author
+autoroute	highway
+decorations	decorations
+roche	roche
+génération	generation
+all writing	all writing
+fondation	foundation
+carte	map 
+pluie record nov	record rain nov
+note minuscule	note minuscule
+prec bas date oct	prec bas date oct
+tmin haut date avr	tmin high date apr
+fête	Party
+dr	dr
+format image	format image
+titre coordonnées	title coordinates
+compatibilité	compatibility
+notes	notes
+évaluation	Evaluation
+pertes	losses
+patrons	patrons
+co	co
+club année	club year
+avant	before
+première course	first race
+titulature	title
+tmax record date jan	tmax record date jan
+consulté	consulted
+pluie jour aou	rain day august
+légende photo	photo caption
+undefined	undefined
+pluie fev	rain feb
+source	source
+prec bas jul	prec bas jul
+somme du bilan banques	bank balance sheet total
+orbitalperiod	orbitalperiod
+passagers	passengers
+contrat	contract
+sous	under
+chef état major	chief of staff
+population urbaine	urban population
+lieu fondation	foundation place
+législature titre	title legislature
+arrangement	arrangement
+datecréation	Creation Date
+nombre saisons	number of seasons
+press bas date sep	press bas date sep
+date de construction	construction date
+couronnement	coronation
+année de fondation	founding year
+wikinews	wikinews
+année draft	draft year
+premier match pro	premier match pro
+press haut date sep	press today date sep
+en	in
+meilleur classement elo	best rating
+press haut date avr	press today date avr
+website	website
+abbayes filles	daughter abbeys
+mandat président	mandate president
+étoile la plus brillante	brightest star
+pibv	pibv
+editor prénom	editor first name
+commonscat	commonscat
+mois	month
+aug lo	grow up
+hopman cup	hopman cup
+org	org
+résidence	residence
+tmoy oct	tmoyoct
+natvar	natvar
+indicatif tél	phone code
+teteliste	teteliste
+législatives premier parti	first party legislative
+surnom français	french nickname
+carte légende	legend card
+prec nbr bas aou	prec nbr bas aou
+cantonales premier pourcentage	cantonal first percentage
+match suivant	next match
+série	series
+meilleur joueur	best player
+couleur cadre	frame color
+candidat	candidate
+terre	earth
+enseignants chercheurs	teacher-researchers
+allégeance	allegiance
+canonisation	canonization
+soleil record dec	soleil record dec
+dernier titre	last title
+année record	record year
+ean	ean
+nomcarte	name you
+site numérique	digital website
+réseau	network
+tmin haut date jui	tmin high date july
+couleur arrière infobox	back color infobox
+an	an
+fond gagnant	winner background
+code langue	language code
+tt	tt
+collasped	collasped
+tmax jul	tmax jul
+source principale	main source
+tmax bas date avr	tmax bas date avr
+distance de course km	running distance km
+margebas	margebas
+press bas date jui	press bas date jui
+ign	ign
+direction suivante	next direction
+age	age
+transit	transit
+prec nbr haut fev	prec nbr haut fev
+chancelier	chancellor
+drapeau lien	flag link
+langue de jure	swear language
+alias	alias
+approbation pontificale	pontifical approval
+prec haut jui	prev high ju
+étatboîte	statebox
+tmin record haut date aou	tmin high record date Aug
+docteur mention	doctor mention
+ceinture périphérique	peripheral belt
+tmax record bas date mar	tmax record bas date mar
+révisé	revised
+humidité mar	Tue humidity
+cellspacing	cellspacing
+feb lo	feb
+ancien club	old club
+soleil max date sep	soleil max date sep
+club entraineur	coaching club
+canton	canton
+pression minimale	minimum pressure
+diplôme	diploma
+propriétaire	owner
+protection	protection
+revendication	claim
+voies	lanes
+îles principales	main islands
+date adoption règlement	date adoption by-law
+upright	upright
+sous titre	subtitle
+press jan	press jan
+url site	url site
+bas	down
+rang pib par habitant	rank GDP per capita
+none relégué	none relegated
+pluie jour nov	rain day nov
+clt démographique	demographic clt
+nom entourage	entourage name
+nom de la voiture	car name
+iso	iso
+largeur photo	picture width
+voy	I go
+gare suivante	next station
+year sun	year sun
+nom allemand	german name
+champs	champs
+vf	vf
+nov sun	Nov. Sun
+phone	phone
+logo	logo
+échelle maxi	max scale
+référendum participation	referendum turnout
+herbe	grass
+liste	listing
+nblignes	nblignes
+nombre record de sélections	record number of selections
+sens	meaning
+neige jour jul	jul day snow
+année de dissolution	year of dissolution
+suspension avant	front suspension
+tmax bas jui	tmax bas jui
+relégué	relegated
+titre sschef	sschef title
+interprète	interpreter
+grêle jour avr	hail day apr
+prénom	first name
+diffusion	diffusion
+press bas date mai	press bas date mai
+date de disparition	date of disappearance
+élection précédente	previous election
+chief minister	chief minister
+titres constructeurs	manufacturer titles
+député précédent	previous deputy
+tmin record haut date mar	tmin record haut date mar
+fin const	fin const
+spectateurs ppv	ppv viewers
+nomcomplet	nomcomplet
+callsign	callsign
+responsabilité	responsibility
+titre ouvrage	book title
+press bas avr	press bas avr
+club précédent	previous club
+inscription	inscription
+neige record jul	jul record snow
+tmax record date dec	tmax record date dec
+fin construction	fin construction
+tension	tension
+édieur	editor
+humidité jul	jul humidity
+none info	none info
+tmin record haut ann	tmin record high ann
+mission précédente	previous mission
+propriétaire initial	original owner
+fréquentation	attendance
+feb rec lo	feb rec lo
+allstars	allstars
+populations notes	populations notes
+champion	champion
+vent mai	more wind
+ouvragescycle	workscycle
+dd	dd
+inauguration	inauguration
+légende plan	blueprint legend
+grêle jour jui	hail june day
+sel	this
+passages	passages
+press bas mar	press bas mar
+nombre épreuves mixtes	number of mixed events
+récompenses	rewards
+doi	doi
+neige record oct	oct record snow
+saison junior	season junior
+gestionnaire de paquets	package manager
+tmin bas date dec	tmin bas date dec
+manager	manager
+soleil min date fev	soleil min date fev
+tmax record aou	tmax record aou
+pole position	pole position
+plus apparitions	more appearances
+brasgauche	brasgauche
+total	total
+ch	ch
+pluie jour avr	rain day apr
+parlement	parliament
+press bas date dec	press bas date dec
+face	face
+nbco	nbco
+monnaie	change
+vent nbr mai	vent nbr mai
+lieu de signature	place of signing
+lieutenance	lieutenance
+religieux	religious
+diacres	deacons
+couleurs	colors
+in	in
+internet	internet
+légende drapeau	legend flag
+année de sortie	release year
+adhésion	membership
+soleil max dec	soleil max dec
+livraisons	deliveries
+rang adhésion	membership rank
+nom spectacle	name show
+période orbitale unité	unit orbital period
+tmin haut mar	tmin haut mar
+tmin record haut jan	tmin record high jan
+boisson	beverage
+anciens clubs ent	old clubs ent
+propriétaire actuel	current owner
+idh catégorie	hdi category
+enfants mari	children husband
+vent record jul	vent record jul
+évolution	evolution
+gaeilge	Irish
+prec haut jul	before today jul
+sansnul	the chance
+fev	fev
+numeros	numbers
+tmin record oct	tmin record oct
+drap	murder
+collectivites communautaires	community communities
+chap	chap
+piste suivante	next track
+population totale	population totale
+hommages	tributes
+tmin bas date sep	tmin low date sep
+jul	jul
+background	background
+tmax bas mai	tmax bass may
+tmin bas date oct	tmin bas date oct
+leaderc date	leaderc date
+dab	demon
+arbitres retour	return referees
+prec haut date jan	prev top date jan
+vent aou	August wind
+bus	bus
+groupe politique	political group
+pluie record mar	Tue record rain
+autorité	authority
+extension	extension
+infgen	infgen
+catnc	catnc
+buts	goals
+distributeur	distributer
+nom wa	nom wa
+pluie mai	may rain
+grêle jour ann	hail annus day
+cantonales premier tour	cantonal first round
+statut	status
+saison dernière	last season
+élection suivante	next election
+sup entête	sub header
+prec bas jui	prec bas jui
+alternatif	alternative
+alternative image	alternative image
+diagramme sénat	senate diagram
+deuxième prénom	Middle name
+municipales premier tour	municipal first round
+titre québécois	Quebec title
+traductrice	translator
+neige oct	snow oct
+gnis	fire
+années fond	years background
+stands	stands
+fonc religieuses	religious function
+précédente	former
+premier cycle	premier cycle
+deuxième	second
+short	short
+gel jour oct	frost day oct
+bat	one
+employeur	employer
+bourgmestreff	bourgmestreff
+paradigmes	paradigms
+tmin jan	tmin Jan
+instrument	instrument
+écoles primaires	primary schools
+communes	municipalities
+month	month
+relégué début	relegated start
+profondeur max	max depth
+taille image	picture size
+premier ministre	Prime Minister
+tmin record haut date ann	tmin record high date ann
+enseignants et enseignats chercheurs	teachers and research professors
+nom de	name of
+troisième	third
+électrification	electrification
+vent mar	Tue wind
+nbre communes	number of municipalities
+origine latitude	origin latitude
+work	work
+wikiquote titre	wikiquote titre
+single précédent	previous single
+juridiction	jurisdiction
+légende carte	legend map
+neige avr	snow apr
+objectif	objective
+soleil min fev	soleil min fev
+wuh	wuh
+mission	mission
+prec aou	prec aou
+nocat	nocat
+parti	party
+origannée	oregano
+origines stylistiques	stylistic origins
+trajet	route
+latitude	latitude
+pluie record dec	record rain dec
+œuvres principales	primary works
+coalition	coalition
+single	single
+indicatif	indicative
+ietf	ietf
+soleil record sep	record sun sep
+pattern so	pattern so
+prec bas sep	prec bas sep
+edge	edge
+buteur retour	return scorer
+prec nbr haut date sep	prec high nbr date sep
+année première	first year
+charte	charter
+croisés	crusaders
+tmin bas date fev	tmin bas date fev
+prec nbr bas date oct	prec nbr bas date oct
+article principal	article principal
+dépositions	depositions
+affluence aller	affluence to go
+wikisource titre	wikisource title
+tmin bas ann	tmin low year
+présidentielles hollande	holland presidential
+ville depuis	city ​​since
+grille	grille
+diffusion originale	original broadcast
+reconnaissance	reconnaissance
+soleil min date jan	sun min date jan
+prec bas date fev	prec bas date fev
+writing	writing
+club poste	post office club
+neige sep	snow sep
+background color	background color
+hkcan	hkcan
+blignes	blines
+champion pilote	champion driver
+collection	collection
+prec nbr bas date jul	prec nbr bas date jul
+indicatif téléphonique	telephone code
+may precip inch	may precip inch
+prec nbr haut jul	prec nbr today jul
+cca	approx
+région iso	iso region
+simhor	simhor
+pmid	pmid
+pluie an nov	rain in Nov
+largeur scores	width scores
+brouillard jour nov	fog day nov
+étudiants thèse	thesis students
+devise	devise
+couleurbordure	bordercolor
+prec bas date mai	prec bas data more
+vent nbr jan	vent nbr jan
+noprose	noprose
+processeur	processor
+apogee	apogee
+neige jour sep	snow day sep
+nb course	nb course
+chiffre affaires	turnover
+club junior	club junior
+tok	took
+administrateur	administrator
+hauteur	height
+défaites amateurs	amateur defeats
+rang superficie	area rank
+nick	nick
+tmin record haut mai	tmin record haut mai
+class	class
+base	base
+oct lo	Oct lo
+titres dirigeants	executive titles
+wikiversity	wikiversity
+adjectifs dérivés	derived adjectives
+nice	nice
+tmin bas date jan	tmin low date jan
+administration	administration
+pourcatho	pourcatho
+circuit image	circuit image
+auteur	author
+tmax haut date aou	tmax high date august
+bénéfice	profit
+code istat	state code
+lien blason	coat of arms link
+capcc	capcc
+temperatureville	temperatureville
+neige aou	snow august
+annéesuiv	next year
+idh année	hdi year
+leaderc	leaderc
+citation	citation
+tmax bas date ann	tmax bas date ann
+tmin haut dec	tmin top dec
+tmax haut avr	tmax high apr
+titre chapitre	chapter title
+tmin haut date mai	tmin high date may
+tmin record date mai	tmin record date mai
+nomligne	nomligne
+ventes	sales
+commentaire	comment
+pluie record avr	record rain apr
+pib hab	start the process
+communeslimitrophes	communeslimitrophes
+pn	pn
+état des sources	source status
+prédécesseur	predecessor
+tire	tire
+point le plus bas	lowest point
+idées remarquables	remarkable ideas
+soleil max sep	soleil max sep
+volumes	volumes
+titres	securities
+île du point culminant	high point island
+hiérarchie	hierarchy
+url	url
+rang population	rang population
+tmax record bas date mai	tmax record bass data may
+superficiem	the surface
+filetype	filetype
+tmax bas date fev	tmax bas date fev
+neige record date jan	snow record date jan
+plus large défaite	biggest defeat
+type de noyau	core type
+forte chaleur jour nov	strong heat day nov
+score	score
+fin pontificat	end pontificate
+nom langue	name language
+pluie jan	Jan rain
+présidentielles le pen	presidential le pen
+pmc	pmc
+artikel	article
+récompense	reward
+titredumaire	titerdumaire
+neige jour avr	snow day apr
+pattern sh	pattern sh
+parti successeur	successor party
+surnoms	nicknames
+personnage blanc	white character
+patinoire	rink
+intronisation	induction
+nom unite	unit name
+date entrée vigueur	effective date
+magnitude brillante	bright magnitude
+hanja	hanja
+prec haut jan	prev top jan
+fiefs	fiefdoms
+univers	universe
+paroisse	parish
+press bas nov	press bas nov
+nombre de victoires aux nations	number of nation victories
+équivalent	equivalent
+superficie rang	row area
+courses gagnées	races won
+première victoire	first victory
+affichage	display
+nomnatif	and natif
+tome	to that
+arrondissements	boroughs
+masseur	masseur
+press haut date jan	press skin date jan
+margin top	margin top
+neige jour fev	snow day feb
+gel jour mai	may day frost
+pluie record jan	record rain jan
+jusqu au	until
+emplacement	location
+nbplc	nbplc
+tmin record mar	tmin record mar
+fret	fret
+embouchure	mouth
+autres fonctions	other functions
+rénovation	renovation
+rédacteur en chef	editor-in-chief
+extra colonnes	extra columns
+idh rang	idh rang
+premier match officiel	first official match
+tmax haut mar	tmax skin mar
+nombre épisodes	number of episodes
+règneap	reign
+hra	game
+may rec lo	may rec lo
+orage jour jul	July storm
+finales perdues simple	singles lost finals
+hkcan url	hkcan url
+nom berbère	Berber name
+coupe	coupe
+détails	details
+derniereselection	lastselection
+tmax record bas jui	tmax record bas jui
+leader gouv chambre fin	late house govt leader
+zone influence	zone influence
+jour pluie jul	jul rainy day
+tmin mai	tmin mai
+sexe	sex
+tmin ann	tmin another
+grade militaire	military rank
+pattern ra	pattern ra
+jour pluie aou	rainy day august
+possessions	possessions
+coordonnées capitale	capital coordinates
+valeur	value
+importations	imports
+pluie an jui	rain in july
+dateconc	dateconc
+superficie ha	surface has
+mad	mad
+habitants	inhabitants
+nom français	french name
+autor	author
+pluie record date aou	record rain date august
+tmin haut date jul	tmin skin date jul
+groupes ethniques année	ethnic groups year
+tmax haut oct	tmax skin oct
+moyenne record	record average
+points marqués	points scored
+nombre de concerts	number of concerts
+approche	approach
+mia	my
+roland garros mixte	roland garros mixte
+prec nbr bas avr	prec nbr bas avr
+secrétairepcc	secretarypcc
+nomtouareg	next door
+tmin record date jul	tmin record date jul
+press bas sep	press bas sep
+press nov	press nov
+wikisource	wikisource
+carte alt	alt card
+version	version
+nomsicilien	nomsicily
+urss	ussr
+altitude minimale	altitude minimal
+tournée suivante	next tour
+défaites décision	defeats decision
+blason	coat of arms
+forte chaleur jour mar	strong heat day tuesday
+created	created
+membre	member
+tmin haut date mar	tmin high date Tue
+maire	mayor
+décerné pour	awarded for
+number	number
+pék	baker
+bras droit	right arm
+moquette	carpet
+tmin record date aou	tmin record date Aug
+rouges alpin	alpine red
+page facebook	page facebook
+gare	for
+other	other
+jour pluie nov	rainy day nov
+numéro dans collection	number in collection
+quartier	piece
+gouvernement	government
+tmax record mai	tmax record may
+phases finales cc	phases finales cc
+prec nbr bas date nov	prec nbr bas date nov
+prec haut fev	prev high feb
+boîte de vitesses	gearbox
+couleur titre	title color
+texte	text
+présidente	president
+rang touriste	tourist rank
+press haut date jul	press today date jul
+nombre de rapports	number of reports
+régime	regime
+tmin haut jul	tmin haut Christmas
+tmin haut fev	tmin skin fev
+trafic	traffic
+invités	guests
+editor	editor
+tailleblason	size coat of arms
+pole	there isn't
+wikidata titre	wikidata title
+capital	capital
+dernière attribution	last award
+nombres de spectateurs par match	number of spectators per match
+législatives participation	legislative participation
+coordonnées	contact information
+prec nbr bas date sep	prec nbr bas date sep
+nom originel	original name
+nom du gimmick	after you gimmick
+devise officielle	official motto
+none influencé	none influenced
+grade	grade
+tmin haut sep	tmin high sep
+press aou	press aou
+brouillard jour sep	fog day sep
+périodicité	periodicity
+simspe	simspe
+arrondi	round
+début pontificat	early pontificate
+variation pop	variation pop
+biome	biome
+lieu mort au combat	place killed in action
+date établissement	establishment date
+type parlement	parliament type
+devise française	french currency
+os	you
+nat	nat
+film	film
+ville	would
+promu	promoted
+artiste	artist
+codeaita	codeaita
+date de fin	end date
+organisme gestionnaire	managing body
+autres	others
+structure res	structure res
+béatification	beatification
+soleil record jan	sun record jan
+séparations	separations
+part	part
+tmin record fev	tmin record fev
+pluie jour mm jan	rain day mm jan
+tmax record bas date jul	tmax record bas date jul
+mp début	pm start
+dp	dp
+soleil aou	august sun
+forte chaleur jour mai	strong heat may day
+pluie jul	jul rain
+diffusion date	diffusion date
+renommé pour	renowned for
+date ouverture	opening date
+employés	employees
+first	first
+domaine internet	Internet domain
+ltemps	ltemps
+prec nbr haut ann	prec nbr haut ann
+tmax record date mar	tmax record date mar
+nombre de sports	sports name
+prolongation	prolongation
+rang nationalité	rank nationality
+bo	be
+durée de rétention	retention period
+retour	return
+chefs	chefs
+entraîneur associé	associate coach
+municipalité	municipality
+successeur	successor
+prec nbr bas date jui	prec nbr bas date jui
+européennes second parti	European second party
+résultat coupe nationale	national cup result
+squamates	scales
+dernière diffusion	last broadcast
+liste volumes	volume list
+date budget	date budget
+année fr	year en
+metacritic	metacritic
+nom de division	division name
+oclc	oclc
+group	group
+équipes	teams
+gel jour mar	frost day tues
+press bas date ann	press bas date ann
+encours	In progress
+législatif	legislative
+environnement	environment
+middle	middle
+chaîne	chain
+vice président	vice president
+temple année	temple year
+neige jan	snow jan
+landeshauptmann	governor
+press jul	press jul
+fc	fc
+paradigme	paradigm
+vol	vol
+nomtamazight	nomtamazight
+villeindé	villeindé
+zonetampon	in the zone
+pluie record date mai	record rain date may
+tmin record date fev	tmin record date fev
+colonel du regiment	colonel of the regiment
+page jo	page jo
+préfet	prefect
+nomfrançais	nameFrench
+écartement rails	rail gauge
+nb matchs	number of matches
+début de règne	beginning of reign
+jan lo	jan lo
+domicile quart	domicile quart
+album suivant	next album
+exprimes	express
+tmax record dec	tmax record dec
+text color	text color
+fil neige	yarn snow
+pluie jour sep	rain day sep
+classement fifa	fifa ranking
+empattement	wheelbase
+tmin bas mai	tmin bas mai
+press haut date fev	press today date Feb
+tmin bas avr	tmin bas avr
+isbn erroné	wrong isbn
+modèle suivant	next model
+combattants	fighters
+prec jui	jui price
+nombre sièges	number of seats
+intercomm	intercomm
+nom néerlandais	dutch name
+autres noms	other names
+tmax record bas aou	tmax record bas aou
+terza divisa	third uniform
+pilote en pole	driver on pole
+dec hi	i must
+légende blason	coat of arms legend
+directeur général	general director
+passage	passage
+ligue	league
+info	info
+pourcentage pré	percentage pre
+usa	deer
+morts	dead
+image carte	picture card
+prénom réalisateur	first name director
+pluie aou	rain august
+première attribution	first award
+titre services	service title
+vent nbr ann	vent nbr ann
+réélection	re-election
+prec ann	prec ann
+locuteurs	speakers
+nbap	nbap
+population année	population year
+label	label
+rotten	rotten
+wikt	guess
+jeu phare	flagship game
+sexe prédécesseur	predecessor sex
+nom fi	fi name
+arrond	round
+blasonnement	blazon
+titre numéro	title number
+municipales participation	municipales participation
+gardien	guardian
+législatives second nom	legislative second name
+score retour	return score
+khyber pakhtunkhwa	khyber pakhtunkhwa
+position du moteur	motor position
+tmax mai	tmax may
+mapr	mapr
+autre diffusion	other broadcast
+gagnant premier match	first game winner
+viaf	viaf
+neige record jui	record snow jul
+premier jeu	first game
+tout musique	all music
+doh	doh
+date de lancement	release date
+résumé	résumé
+cvg	cvg
+variation	variation
+ko	is
+vent record jan	vent record jan
+jun lo	jun lo
+ibn	ibn
+genres associés	associated genres
+vittesse maxi	vittesse maxi
+phases finales cm	phases finales cm
+espèce	species
+titre du chef état major	title of chief of staff
+tmax record oct	tmax record oct
+première version	first version
+année nouv	new year
+wali	still
+oui	yes
+état actuel	Current state
+open australie mixte	mixed australian open
+budget	budget
+légende image	image caption
+soleil max fev	soleil max fev
+feb precip inch	feb precip inch
+président sénat début	early senate president
+titre champion autre	champion title other
+arr	arr
+couleurbord	edgecolor
+sep precip days	sep precip days
+total temps	total time
+rajya sabha	rajya sabha
+bourgmestre	mayor
+nac	nac
+titre quartier	district title
+neige dec	snow december
+tmin record date avr	tmin record date avr
+neige fev	snow feb
+enregistré lieu	registered place
+roland garros double	roland garros double
+hommage	tribute
+superficie agglomération	agglomeration area
+web	web
+enfant	child
+dates clés	key dates
+prec nbr bas sep	prec nbr bas sep
+commune limitrophe	neighboring municipality
+nom et image	name and picture
+tmax record fev	tmax record fev
+isbn	isbn
+tel	tel
+faculté	faculty
+press dec	press dec
+jo	because
+employes	employes
+soleil fev	soleil feb
+div	div
+largeur image	image width
+dateretrait	date retreat
+singles extraits	extracted singles
+tmin record ann	tmin record ann
+prix	price
+sep hi	sep hi
+tmax haut jan	tmax skin jan
+institut	institute
+anniversaire	anniversary
+films notables	films notables
+prec nbr haut mar	prec nbr haut mar
+couleurfond	color background
+tmax haut date mar	tmax skin date mar
+neige record date sep	snow record date sep
+jun precip inch	one precip inch
+neige record ann	year record snow
+dérivés	derivatives
+mascotte	mascot
+type	type
+femme	women
+brouillard jour ann	fog day an
+aug precip days	aug special days
+dir	you
+maj	maj
+tmax record bas date oct	tmax record bas date oct
+issue	issue
+soleil min date aou	sun min date aug
+oct precip inch	oct precip inch
+info titre	title information
+division	division
+press haut mai	press skin may
+sortie	exit
+prec nbr bas date avr	prec nbr bas date avr
+consommation	consumption
+participation pré	pre participation
+ep	ep
+sep sun	sep sun
+prec haut date mar	prev top date Tue
+victoires	victories
+phases finales jo	final phases jo
+attr	attr
+prési parlementeuropéen	president of the european parliament
+pour cent population	pour cent population
+pilotes essayeurs	test pilots
+sitem	reproach
+yelcards	yelcards
+reservoir	reservoir
+pluie jour ann	rainy day
+album	album
+finaliste	finalists
+libellé	wording
+électeurs date	voters date
+masse	lot
+idh	idh
+dette	this
+sports nouveaux	new sports
+pluie jour jui	june day rain
+pib nominal	pib nominal
+insecte	INSECT
+cx	cx
+confluence localisation	confluence localisation
+aug rec hi	aug rec hi
+paroles	lyrics
+press bas date aou	press bas date aou
+date naissance	date of birth
+fin fonction	end function
+pluie an avr	rain in april
+entete	entity
+décès	death
+pluie an aou	rain in august
+origine altitude	origin altitude
+licence	licence
+jstor	jstor
+cartesuffragants	cartesuffragants
+enfaitpartie	is part of
+press bas date mar	press bas date mar
+tmax bas date mar	tmax bas date mar
+none année	none year
+capacité	ability
+press bas date avr	press bas date avr
+image desc	image desc
+ordination	ordination
+méridien	meridian
+pop	pop
+pourcentage eau	water percentage
+tmax record bas date dec	tmax record bas date dec
+fin carrière ent	end of career
+députés pré	deputies pre
+tmax record date sep	tmax record date sep
+calib	Calib
+pas grille principale	no main grid
+parcours	journey
+hauteur lignes	row height
+subdiv	subdiv
+disponibilité	availablity
+pluie record mai	May record rain
+participants	participants
+taille blason	coat of arms size
+dateconcact	dateconcact
+vente	sale
+guerres	wars
+dec precip mm	dec precip mm
+exécutif	executive
+résidence officielle	official residence
+jan precip days	jan precip days
+prec nbr haut oct	prec nbr haut oct
+qualité	quality
+suivant texte	following text
+année début	beginning year
+plate forme	platform
+acteur	actor
+tout ecriture	all writing
+étudiants	students
+pourcentage analphabétisme	illiteracy percentage
+légende symbole	legend symbol
+tmin record dec	tmin record dec
+comarque	county
+pluie an dec	rain in dec
+cantons	cantons
+soleil min nov	soleil min nov
+chassis	chassis
+prec nbr haut nov	prec nbr today nov
+popularité	popularity
+vainqueur	winner
+scope	scope
+rom	rom
+apr precip days	apr precip days
+titre leaderb	titre leaderb
+humidité ann	annual humidity
+vent ann	ann wind
+lignée de	line of
+tmax sep	tmax sep
+ancienne chaîne	old chain
+prec nbr haut date jul	prec nbr today date jul
+prec haut date mai	prec haut more dates
+kiné	physiotherapist
+total length	total length
+neige record nov	record snow nov
+scénariste	scriptwriter
+entraîneur	coach
+allumeur	lighter
+année budget	budget year
+lien	lien
+superficie	surface
+tmax record date ann	tmax record date ann
+tmax record date mai	tmax record May dates
+surnom	nickname
+wimbledon double	wimbledon double
+chef opp chambre début	chief opp chamber start
+fratrie	siblings
+première	first
+législatives premier pourcentage	legislative first percentage
+comté année	county year
+traduction	translation
+mairem	marem
+souverain	sovereign
+présidentielles chirac	presidential chirac
+rightarm	rightarm
+thème ouverture	opening theme
+alignb	alignb
+et al	et al
+quais	which
+iso texte	iso text
+thumb	thumb
+pluie an oct	rain year oct
+soleil min mai	sun min may
+voie avant	front track
+pays nom subdivision	country name subdivision
+tmin fev	tmin feb
+vent jul	wait christmas
+tmin haut date dec	tmin high date dec
+ministre en chef	chief minister
+prec bas mar	prec bas mar
+year rec hi	year rec hi
+en nl	en nl
+catégorie maximale	maximum category
+border	border
+brasdroit	right arm
+rite	like
+edition	editing
+mode	mode
+commune	common
+voir aussi	See as well
+tmax record nov	tmax record nov
+press mar	press mar
+date de version avancée	advanced release date
+femmes disponibles	women available
+vent record jui	record wind ju
+prec haut date avr	pre top date apr
+date retour	return date
+soust titre	subtitle
+numéro edition	edition number
+scots	scots
+matchs points nationale	national points matches
+hex	hex
+échantillon	sample
+oiseau	bird
+trains	trains
+cio	cio
+upright logo	upright logo
+aug hi	aug hi
+tmin mar	tmin mar
+immatriculation	registration
+wiktionary	wiktionary
+année préc	previous year
+press oct	press oct
+prec haut date sep	prev top date sep
+prec haut date oct	prev high date oct
+lieu de annonce béatification	place of beatification announcement
+wals	waltz
+ennemi	enemy
+tmin record haut date mai	tmin record high date may
+prec bas date jul	prec bas date jul
+nom église	church name
+jumelage	twinning
+autrestaff	otherstaff
+rés	gap
+disparu en	disappeared in
+mode opératoire	modus operandi
+subdivisions	subdivisions
+nombre record essais	record number of trials
+nom de code	code name
+tmin haut date jan	tmin high date jan
+date de dernière version	latest version date
+insigne	distinguished
+principaux intérêts	main interests
+reprise	reprise
+length	length
+profondeur moy	average depth
+pourcentage	percentage
+prec mar	price sea
+distance	distance
+blason lien	coat of arms link
+moteur de jeu	game engine
+scenaristes	scenaristes
+tmax record bas jul	tmax record bas jul
+blason simple	single coat of arms
+jan precip inch	jan especially inch
+soleil max date jul	sun max date jul
+sessions	sessions
+mari	big
+total durée	total duration
+de	of
+gazon	grass
+tmin haut ann	tmin haut ann
+première ascension	first ascent
+tmax bas date oct	tmax bas date oct
+lieux	premises
+nom original	nom original
+en de	and the
+soleil max mai	sun max may
+mai	May
+champ libre	champ libre
+chef	chef
+régionales second nom	regional second name
+perso principaux	main characters
+nom divers	miscellaneous name
+schéma	plan
+wilaya depuis	wilaya since
+rdf schema comment	rdf schema comment
+occupation	occupation
+nomsarde	nomsarde
+pnb	pnb
+titre subdivision mère	parent subdivision title
+none	none
+prédicat	predicate
+jour pluie sep	rainy day sep
+géolocalisation	geolocation
+conjoints	spouses
+écozone	ecozone
+npa	npa
+single line	single line
+popcatho	popcatho
+palign	palign
+tmax record bas date jan	tmax record bas date jan
+from	from
+brouillard jour fev	fog day feb
+coffre	chest
+bordure drapeau	flag border
+tmin record haut date dec	tmin record high date dec
+début carrière	early career
+langage de programmation	programming language
+jun sun	jun sun
+détail épouse	wife detail
+compositeur	composer
+nom réalisateur	director name
+orage jour avr	storm day apr
+date de première version	first release date
+nombre épreuves féminines	number of women's events
+apr rec hi	apr rec hi
+population agglomération	agglomeration population
+chef actuel	current leader
+année draft lnh	nhl draft year
+jul lo	jul lo
+creation	creation
+législatives premier tour	first round legislative
+tmin bas jui	tmin bas ju
+rejetés	rejected
+références	references
+constructeur	builder
+affluence	affluence
+patron	patron
+pilote record	record driver
+messier	messier
+cp	cp
+initiale	initial
+score aller mi temps	score go half time
+taille imageloc	taille imageloc
+conscription	conscription
+superficie totale	total area
+tmin bas date aou	low date Aug
+date	date
+code monnaie	currency code
+date de dernière version stable	last stable release date
+alexa	alexa
+alimentation	feed
+prec nbr haut mai	prec nbr haut mai
+pluie jour mm jul	rain day mm jul
+clubs	clubs
+podiums	podiums
+typebie	typebie
+nombre remontées	number of lifts
+roches	rocks
+prec jan	prec jan
+gemme	Saving
+démolition	demolition
+directeur technique	technical director
+années actives	active years
+lieu de décès	place of death
+support origine	original support
+soleil max aou	sun max august
+tmax ann	tmax ann
+mère	mother
+pilote record tour	record lap driver
+points	points
+press bas date fev	press bas date fev
+soleil min date nov	soleil min date nov
+embouchure latitude	latitude mouthpiece
+demi finale	semi final
+tmin bas date mar	tmin bas date mar
+tmin bas oct	tmin bas oct
+sexe successeur	successor sex
+journal	journal
+atteignant	reaching
+match précédent	previous game
+urbanisation	urbanisation
+maréchal	marshal
+couleurfondt	background color
+lien auteur	link author
+coupe europe	european cup
+neigeville	neigeville
+écossais	Scottish
+directeur	director
+wikidata	wikidata
+tmax bas date nov	tmax bas date nov
+the	the
+filename	filename
+humidité dec	humidity
+éditeur	editor
+freins	brakes
+tmin haut jan	tmin high jan
+note	note
+combats amateurs	amateur fights
+mandat maire	mayor mandate
+credits musique	music credits
+créateur	Creator
+année pop	pop year
+vote électoral	electoral vote
+autrelégende	otherlegend
+neige record date nov	snow record date nov
+prec nbr haut date nov	prec nbr today date nov
+pente	paint
+halloffameiihf	halloffameiihf
+interface graphique	graphic interface
+mandat préfet	prefect mandate
+soleil min mar	soleil min mar
+nombre de tours	number of turns
+nom élection	name election
+indépendance	independence
+nation	nation
+vent nbr dec	vent nbr dec
+prêt	ready
+prec bas avr	prec bas avr
+session room	session room
+coupes	cuts
+rang lune	rang lune
+personnages clés	key characters
+tradition philosophique	philosophical tradition
+langues régionales	regional languages
+chef du gouvernement	head of government
+tmax haut date jan	tmax skin date jan
+siège	headquarters
+tailleimage	sizeimage
+mar hi	sea ​​there
+orage jour jui	thunderstorm july day
+titres simple	titres simple
+nolink	nolink
+cheveux	hair
+tmax bas date mai	tmax bass more data
+pays de décès	country of death
+sél	cell
+liaison	liaison
+inscrits	registered
+profondeur moyenne	medium depth
+couleur cadre nom	frame color name
+niveau	level
+députés	deputies
+territoire	territory
+nov precip mm	nov precip mm
+oaci	ICAO
+nb abscisses	nb you cut off
+sous titre chapitre	subtitle chapter
+tmin bas date jul	tmin base date jul
+média	average
+nom du moteur	engine name
+leader type	leader type
+association nom	association name
+asin	salt
+représentants	representatives
+none ormat livre	none ormat book
+première publication	first post
+tmax record bas ann	tmax record bas ann
+nom colonial	nom colonial
+numéros	numbers
+jun rec hi	jun rec hi
+nb saisons	number of seasons
+modèle précédent	previous model
+échelle	ladder
+début diffusion	start broadcast
+densité	density
+prec nbr haut date oct	prec nbr haut date oct
+analyste vidéo	video analyst
+soleil record mar	Tue record sun
+étoiles brillantes	shining stars
+tmax fev	tmax fev
+date de dernière version avancée	advanced latest version date
+tmax record bas avr	tmax record bas avr
+aug precip inch	aug especially inch
+text	text
+tmax haut date dec	tmax high date dec
+yrs	yrs
+légende logo	legend logo
+poptot	pop
+antipape	antipape
+date album suiv	next album data
+défaite	defeat
+actualité	news
+féminin	feminine
+notes fond	notes fond
+contribution	contribution
+allegeance	allegeance
+source principale localisation	main source location
+idéologie	ideology
+complet	completely
+soleil mar	tuesday sun
+finconc	finconc
+cellpadding	cellpadding
+densité année	annual density
+grêle jour fev	hail day feb
+us open double	us open double
+dissolution	dissolution
+durée sortie	output duration
+date de naissance	Date of Birth
+iso ctexte	iso ctext
+héritier	heir
+issn	issn
+année active	active year
+mandat dirigeant	executive mandate
+date de canonisation	date of canonization
+soleil max mar	sun max tue
+legende	legend
+header align	header align
+province	province
+tmoy avr	tmoyavr
+pluie mar	rain tue
+professionnels	professionals
+année statut	year status
+taille diagramme	size chart
+co empereur	co-emperor
+région	region
+langues officielles	official languages
+prec nbr bas date aou	prec nbr bas date aou
+open australie simple	open australie simple
+coleurs	colors
+fuse	fuse
+prec bas aou	prec bas aug
+score plus large victoire	wider score victory
+nombre de pages	name of pages
+date clôture	closing date
+prec nbr haut aou	prec nbr haut aou
+descendant	descendant
+nov lo	nove lo
+joueur le plus capé	most capped player
+paysconstructeur	manufacturer country
+nomallemand	nomallemand
+soleil dec	sun dec
+fédération	federation
+destination initiale	original destination
+faitpartie	is part
+ligne principale	main line
+undergraduate	undergraduate
+soleil min aou	soleil min aou
+styletitre	styletitre
+sud ouest	South West
+états	states
+atterrissage	landing
+superficie date	date surface
+titres double	titres double
+lignecoul	ligne coul
+hôpitaux	hospitals
+tmax haut date sep	tmax skin date sep
+point culminant	climax
+pluviométrie	rainfall
+orageville	orageville
+pluie an fev	rain in feb
+profondeur maximale	maximum depth
+premiervol	premiervol
+chaussettes	socks
+éditeur fr	editor en
+jul rec hi	jul rec hi
+commercial	commercial
+altitude maximale	altitude maximum
+signature	signature
+gouverneur titre	governor title
+majorite	the majority
+forte chaleur jour sep	hot day sep
+entourage	entourage
+all lyrics	all lyrics
+superficie terre	land area
+tmin record nov	tmin record nov
+récursion	recursion
+athlètes	athletes
+détail	detail
+forme actuelle	current form
+fibah année	fibah year
+alt	everything
+tmax jui	tmax jui
+classement superficie	area classification
+dernière version stable	latest stable version
+tmin record haut avr	tmin record high apr
+compléments	complements
+paris totales	total bets
+forces	forces
+artist	artist
+tmin haut jui	midday high jun
+prec nbr bas date mar	prec nbr bas date mar
+parti suivant	next party
+disponibles	available
+année pop agglomération	agglomeration pop year
+jun hi	jun hi
+code de production	production code
+couleur arrière nom	back color name
+pour cent superficie	percent area
+participation	participation
+pattern la	pattern the
+voyageurs	travelers
+lieu édition	publishing place
+casus	case
+coprésidents	co-chairs
+pilotes	pilots
+guerre	war
+constellations limitrophes	boundary constellations
+date docteur église	date doctor church
+cité	cited
+anciens clubs	old clubs
+nom suédois	swedish name
+municipalitédepuis	municipalityfrom
+tmax record bas sep	tmax record bas sep
+prec nbr haut jan	prec nbr top jan
+année fin	year end
+content	content
+record sélection	record selection
+sources	sources
+orage jour mai	may day thunderstorm
+dec precip inch	dec precip inch
+traductiondevise	traductiondevise
+court	court
+titres pilotes	pilot titles
+districts	districts
+résultat	results
+ouverture	opening
+credits ecriture	writing credits
+datepop urbaine	urban datepop
+nom irlandais	irish name
+project manager	project manager
+tmin record sep	tmin record sep
+catalogue	catalogue
+playoffs	playoffs
+prefet	prefect
+tmax bas oct	tmax bas oct
+soleil max date aou	sun max date aug
+victoire	victoire
+pistes	tracks
+lire en ligne	read online
+fonction dirigeant	executive function
+statut des joueurs	player status
+sièges législatif	legislative seats
+brouillard jour mai	may day fog
+épisode	episode
+thème musical	musical theme
+nature ouvrage	nature work
+noms dirigeants	ruler names
+borough	borough
+image map	image map
+colonnes	columns
+statut ville	city ​​status
+source latitude	source latitude
+strasbourg	strasbourg
+tmin sep	tmin sep
+emblème	emblem
+grêle jour sep	hail day sep
+licences	licences
+tmax record bas nov	tmax record bas nov
+entraîneur des gardiens	goalkeeping coach
+référence	reference
+code région	region code
+année	year
+marche	walking
+lieu de annonce canonisation	place of canonization announcement
+vent avr	wind apr
+diffusion am	diffusion am
+cpu	cpu
+nom latin	latin name
+date atterrissage	landing date
+tmax record date oct	tmax record date oct
+forme juridique	legal status
+location	location
+gel jour sep	frost day sep
+nord ouest	North West
+pluie nov	Nov rain
+nomitalien	nominally
+superficie division	superficie division
+mc	mc
+taillelogo	taillelogo
+fabricant	maker
+nature du décès	type of death
+sep lo	I know
+lignée	line
+annee	year
+prec avr	prec avr
+infon	info
+dynastie	dynasty
+salaire	salary
+dernier volume	last volume
+math reviews	math reviews
+anciennes équipes	old teams
+filiale	subsidiary company
+centre administratif	administrative center
+groupe	band
+symbole	symbol
+couleur bordure image	color border picture
+municipalités	municipalities
+téléphone	telephone
+rang admission	rang admission
+régionales participation	regional participation
+can	can
+pop date	pop date
+pays	pays
+circonscription élect	elect constituency
+président apc	apc president
+tmoy mar	tmoy mar
+nationalités	nationalities
+tmax record sep	tmax record sep
+alt mini	everything mini
+préface	preface
+neige jour mai	snow day may
+langue	language
+classement population	population ranking
+officiel	official
+genève	Geneva
+date clé	key date
+year mean	year mean
+année nationale	national year
+certification	certification
+pistes alpin	alpine slopes
+pluie record sep	record rain sep
+pages totales	total pages
+activité	activity
+destination actuelle	current destination
+pluie jour dec	rain day dec
+meilleur résultat cm	best cm result
+choix draft khl	khl draft pick
+compétition en cours	current competition
+pole positions	pole positions
+dette année	debt year
+fonc civiles	civil function
+ar	With
+neige jui	neige jui
+mp fin	mp fin
+nbre municipalités	number of municipalities
+pluie jour jan	rain day jan
+saint dizier	Saint-Dizier
+lat	years
+terres	lands
+ville de naissance	city ​​of birth
+chapter	chapter
+soleil min ann	min sun
+releg existe	releg exists
+liste épisodes	list episodes
+rang taille	rank size
+none article	none article
+tailleimg	sizeimg
+neige jour oct	snow day oct
+lieu de mort	place of death
+team manager	team manager
+color	color
+jour pluie mai	may rainy day
+régionales premier pourcentage	regional first percentage
+const	const
+lyrics credits	lyrics credits
+titulaire actuel	current holder
+première édition	first edition
+grêle jour jan	hail jan
+music credits	music credits
+atp	atp
+secrétaires	secretaries
+may lo	may it
+prem titulaire	first holder
+poisson	poisson
+gel jour avr	frost day apr
+évolution du résultat net	change in net income
+press haut date mai	press skin date may
+laïcisation	secularization
+tram	tram
+mandat maréchal	marshal warrant
+qualifié	qualified
+sd	sd
+grêle jour dec	hail day dec
+déposition	deposition
+soleil min jan	soleil min jan
+nomalgérien	nomalgerian
+image drapeau	flag picture
+doyen	doyen
+vent fev	vent fev
+bassin collecteur	collection basin
+pluie ann	year rain
+var	was
+sanssérie	without series
+jun precip mm	one precip mm
+méthode de mise àjour	update method
+date début	Start date
+epaisseur serie	serial thickness
+source confluence longitude	source confluence longitude
+year hi	year hi
+dernier match pro	last pro game
+président chambre début	early chamber president
+padding	padding
+tmin dec	tmin dec
+sep rec lo	sep rec lo
+tmax bas avr	tmax bas avr
+dynastie ancêtre	ancestor dynasty
+commune cachée	hidden commune
+dernière victoire	last victory
+association	association
+sièges chambre	bedroom seats
+lang	just
+tmax bas ann	tmax bas ann
+année sélection	selection year
+pluie record date nov	record rain date nov
+press fev	press fev
+département iso	iso department
+population rurale	population rurale
+tmin record date oct	tmin record date oct
+novembre	November
+apr rec lo	apr rec lo
+lanceur	launcher
+forme	form
+premier volume	premier volume
+descript	descript
+soleil max ann	sun max an
+datepop rurale	datepop rurale
+première apparition	first appearance
+compétition	competition
+sup	sup
+numéro piste suiv	next track number
+pays subdivision	pays subdivision
+domicile total	domicile total
+svg	svg
+pibh	pi
+populationm	population
+mis en ondes	aired
+président fédéral	federal president
+législatives second pourcentage	legislative second percentage
+tmax haut sep	tmax skin sep
+date pib	date pib
+date aller	go date
+press haut jan	press skin jan
+cistercien depuis	Cistercian since
+lien distributeur	distributor link
+actionnaires	shareholders
+apr lo	april
+flottant	floating
+pattern name	pattern name
+ventes nette	net sales
+press bas fev	press bas fev
+réservoir	tank
+buteur aller	goalscorer go
+tmax haut aou	tmax high Aug
+legendeennote	legendeennote
+pays frontaliers	border countries
+début fonction	start function
+gagnant plus large défaite	winner wider defeat
+tmax record jui	tmax record jui
+adresse	address
+évêque	bishop
+réédition	reissue
+neige record mai	May record snowfall
+image légende	picture caption
+press bas oct	press bas oct
+nommonument	namemonument
+brouillard jour jui	june day fog
+jeuxvideo com	jeuxvideo com
+note numérique	digital note
+ouvragescycle orig	workscycle orig
+press haut date jui	press top date jul
+press haut avr	press today avr
+primat	primate
+préfixe	prefix
+neige jul	jul snow
+nom ukrainien	ukrainian name
+écoles secondaires	secondary schools
+clubs résidents	resident clubs
+couleur fond	background color
+is	is
+embouchure longitude	longitude mouth
+wikinews titre	wikinews title
+prec nbr bas nov	prec nbr bas nov
+deuxième cycle	second cycle
+fête patronale	patronal feast
+confluence	confluence
+publisher	publisher
+période	period
+pourcent population	population percent
+inférieure	lower
+forte chaleur jour jui	intense heat june day
+art	art
+nomliste	nomliste
+source confluence	source confluence
+pluie an sep	rain year sept
+prec bas fev	prec bas fev
+commandant historique	historical commander
+société mère	parent company
+date sortie	release date
+source secondaire latitude	latitude secondary source
+influencé par	influenced by
+période pro	professional period
+superviseur	supervisor
+département	department
+événements	events
+équipe draft lnh	nhl draft team
+analyste	analyst
+image bis	image to
+pneumatiques	tires
+grêle jour aou	hail day august
+sortant	outgoing
+distinction	distinction
+chercheurs	researchers
+lieu de vénération	place of worship
+sep	sep
+tmax mar	tmax mar
+tmax haut mai	tmax high may
+famille	family
+code	code
+période activité	activity period
+altitude maximum	altitude maximum
+pouvoir	power
+apogée	apogee
+prec haut mar	prev tue
+suspension	suspension
+couleur arriere nom	back color name
+conférence	conference
+extra column	extra column
